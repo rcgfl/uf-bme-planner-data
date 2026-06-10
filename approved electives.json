@@ -1,0 +1,2619 @@
+{
+  "schemaVersion": "1.0",
+  "source": "UF BME Approved Elective List",
+  "lastUpdated": "2026-06",
+  "description": "UF BME approved technical electives. Offering data is advisory only \u2014 verify with department before registering.",
+  "courses": {
+    "ABE4033": {
+      "id": "ABE4033",
+      "title": "Fundamentals and Applications of Biosensors",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAP2302",
+        "BSC2010",
+        "CHM2200"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "ABE4033",
+      "rawPrereq": "Credits: 3; Prereq: MAP 2302, BSC 2010 and CHM 2200.",
+      "notes": ""
+    },
+    "ABE5038": {
+      "id": "ABE5038",
+      "title": "Recent Developments and Applications in Biosensors",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": true,
+      "displayId": "ABE5038",
+      "rawPrereq": "Credits: 3; Prereq: At least senior status in engineering and background in biology including",
+      "notes": ""
+    },
+    "AGR3303": {
+      "id": "AGR3303",
+      "title": "Genetics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "AGR3303",
+      "rawPrereq": "Credits: 3; Prereq: basic course in biology, botany or zoology.",
+      "notes": ""
+    },
+    "APK2100C": {
+      "id": "APK2100C",
+      "title": "Applied Human Anatomy with Laboratory",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "APK2100C",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "APK2105C": {
+      "id": "APK2105C",
+      "title": "Applied Human Physiology with Laboratory",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "APK2105C",
+      "rawPrereq": "Credits: 4. Prereq: sophomore standing or higher.",
+      "notes": ""
+    },
+    "BCH4024": {
+      "id": "BCH4024",
+      "title": "Intro to Biochemistry and Molecular Biology*",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "CHM2211",
+        "CHM3217"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {
+        "CHM2211": [
+          "CHM3217"
+        ]
+      },
+      "instructorPermissionMaySubstitute": true,
+      "displayId": "BCH4024",
+      "rawPrereq": "Credits: 4; Prereq: CHM 2211 or CHM3217, or instructor permission.",
+      "notes": ""
+    },
+    "BME3234": {
+      "id": "BME3234",
+      "title": "Mechanical Behavior of Biological Tissues and Systems",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "BME3060",
+        "EGM2511"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME3234",
+      "rawPrereq": "Credits: 3; Prereq: BME 3060 with a minimum grade of C and EGM 2511.",
+      "notes": ""
+    },
+    "BME3941": {
+      "id": "BME3941",
+      "title": "Internship Experience in Biomedical Engineering",
+      "credits": 0,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": true,
+      "maxCredits": 3,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME3941",
+      "rawPrereq": "Credits: 0-3. Prereq: BME major.",
+      "notes": ""
+    },
+    "BME4160": {
+      "id": "BME4160",
+      "title": "Magnetic Biomaterials",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "PHY2048",
+        "CHM2046",
+        "CHM2096"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME4160",
+      "rawPrereq": "Credits: 3; Prereq: PHY 2048 and CHM 2046 or CHM 2096 with minimum grades of C.",
+      "notes": ""
+    },
+    "BME4361": {
+      "id": "BME4361",
+      "title": "Neural Engineering",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "BME3508",
+        "EEL3135"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {
+        "EEL3135": [
+          "BME3508"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME4361",
+      "rawPrereq": "Credits: 3; Prereq: BME 3508 or EEL 3135.",
+      "notes": ""
+    },
+    "BME4641": {
+      "id": "BME4641",
+      "title": "Biomaterials for Drug Delivery",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME4641",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "BME4648": {
+      "id": "BME4648",
+      "title": "Biomaterials for Drug Delivery",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "BME3060",
+        "BME4632"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME4648",
+      "rawPrereq": "Credits: 3. Prereq: BME 3060 with a minimum grade of C. Coreq: BME 4632.",
+      "notes": ""
+    },
+    "BME4760": {
+      "id": "BME4760",
+      "title": "Biomedical Data Science",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "BME3053C",
+        "COP2271",
+        "COP2271L",
+        "STA2023",
+        "STA3032"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME4760",
+      "rawPrereq": "Credits: 3. Prereq: BME 3053C, COP 2271, COP 2271L, and STA 2023 or STA3032.",
+      "notes": ""
+    },
+    "BME4931": {
+      "id": "BME4931",
+      "title": "Designing and Developing Biologic Therapeutics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME4931",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "BME5703": {
+      "id": "BME5703",
+      "title": "Statistical Methods for Biomedical Engineering",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME5703",
+      "rawPrereq": "Credits: 3; Prereq: Knowledge of calculus, linear algebra and basic statistics.",
+      "notes": ""
+    },
+    "BME5704": {
+      "id": "BME5704",
+      "title": "Advanced Computational Methods for Biomedical Engineers",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME5704",
+      "rawPrereq": "Credits: 3; Prereq: A basic knowledge of physics and calculus is required. This can be met by",
+      "notes": ""
+    },
+    "BME5743": {
+      "id": "BME5743",
+      "title": "Applied Data Mathematics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "COP2271",
+        "BME3053C"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME5743",
+      "rawPrereq": "Credits: 3; Prereq: COP 2271 or equivalent & BME 3053C or equivalent.",
+      "notes": ""
+    },
+    "BME6018": {
+      "id": "BME6018",
+      "title": "Clinical Correlations in BME",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "BME5401"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": true,
+      "displayId": "BME6018",
+      "rawPrereq": "Credits: 3; Prereq: BME 5401 or waiver",
+      "notes": ""
+    },
+    "BME6164": {
+      "id": "BME6164",
+      "title": "Magnetic Biomaterials",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME6164",
+      "rawPrereq": "Credits: 3; Prereq: Undergraduate physics and chemistry.",
+      "notes": ""
+    },
+    "BME6324": {
+      "id": "BME6324",
+      "title": "Stem Cell Engineering",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME6324",
+      "rawPrereq": "Credits: 3; Corequisite: Undergraduate cell biology and molecular biology and physiology, or",
+      "notes": ""
+    },
+    "BME6330": {
+      "id": "BME6330",
+      "title": "Cell and Tissue Engineering",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "GMS6421",
+        "BME5001"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": true,
+      "displayId": "BME6330",
+      "rawPrereq": "Credits: 3; Prereq: GMS 6421, BME 5001, or consent of instructor.",
+      "notes": ""
+    },
+    "BME6360": {
+      "id": "BME6360",
+      "title": "Neural Engineering",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME6360",
+      "rawPrereq": "Credits: 3; Prereq: consent of the instructor.",
+      "notes": ""
+    },
+    "BME6522": {
+      "id": "BME6522",
+      "title": "Biomedical Multivariate Signal Processing",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME6522",
+      "rawPrereq": "Credits: 3; Prereq: multivariate calculus and a basic knowledge of probability and statistics.",
+      "notes": ""
+    },
+    "BME6533": {
+      "id": "BME6533",
+      "title": "Radiologic Anatomy",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "BME6590"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME6533",
+      "rawPrereq": "Credits: 3; Coreq: BME 6590 Medical Physics.",
+      "notes": ""
+    },
+    "BME6535": {
+      "id": "BME6535",
+      "title": "Radiological Physics, Measurements and Dosimetry",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME6535",
+      "rawPrereq": "Credits: 3; Prereq: Upper level college physics.",
+      "notes": ""
+    },
+    "BME6705": {
+      "id": "BME6705",
+      "title": "Mathematical Modeling of Biological and Physiological Systems",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME6705",
+      "rawPrereq": "Credits: 3; Prereq: calculus, linear algebra, and passing knowledge of di\ufb00erential equations.",
+      "notes": ""
+    },
+    "CDA3101": {
+      "id": "CDA3101",
+      "title": "Introduction to Computer Organization",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "COP3504",
+        "COP3205",
+        "MAC2233",
+        "MAC2311",
+        "MAC3472"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {
+        "MAC2233": [
+          "MAC2311"
+        ],
+        "MAC3472": [
+          "MAC2311"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "CDA3101",
+      "rawPrereq": "Credits: 3; Prereq: (COP 3504 or COP 3205) and (MAC2233 or MAC 2311 or MAC 3472) and",
+      "notes": ""
+    },
+    "CHM3218": {
+      "id": "CHM3218",
+      "title": "Organic Chemistry/Biochemistry 2",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "CHM3217",
+        "CHM2211"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {
+        "CHM2211": [
+          "CHM3217"
+        ]
+      },
+      "instructorPermissionMaySubstitute": true,
+      "displayId": "CHM3218",
+      "rawPrereq": "Credits: 4; Prereq: CHM 3217 or CHM 2211, or instructor permission.",
+      "notes": ""
+    },
+    "COP2273": {
+      "id": "COP2273",
+      "title": "Python Programming for Engineers*",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "MAC2311"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "COP2273",
+      "rawPrereq": "Credits: 3; Prereq: MAC 2311 with a C grade or better.",
+      "notes": ""
+    },
+    "COP3502": {
+      "id": "COP3502",
+      "title": "Programming Fundamentals 1",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "MAC2311"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "COP3502",
+      "rawPrereq": "Credits: 3; Coreq: MAC2311.",
+      "notes": ""
+    },
+    "COP3503": {
+      "id": "COP3503",
+      "title": "Programming Fundamentals 2",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "COP3502"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "COP3503",
+      "rawPrereq": "Credits: 3; Prereq: (COP 3502 with a minimum grade of C or an AP exam in computer science",
+      "notes": ""
+    },
+    "COP3530": {
+      "id": "COP3530",
+      "title": "Data Structures and Algorithm",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "COP3504",
+        "COP3503",
+        "COT3100",
+        "MAC2234"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {
+        "MAC2234": [
+          "MAC2312"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "COP3530",
+      "rawPrereq": "Credits: 3; Prereq: Prereq: (COP 3504 or COP 3503) and COT 3100 and (MAC 2234 or MAC",
+      "notes": ""
+    },
+    "COP4600": {
+      "id": "COP4600",
+      "title": "Operating Systems",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "CDA3101",
+        "COP3530"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "COP4600",
+      "rawPrereq": "Credits: 3; Prereq: CDA 3101 and COP 3530; knowledge of C or C++ recommended. Design",
+      "notes": ""
+    },
+    "COT3100": {
+      "id": "COT3100",
+      "title": "Applications of Discrete Structures",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "MAC2233",
+        "MAC2311",
+        "MAC3472",
+        "COP3504",
+        "COP3503"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {
+        "MAC2233": [
+          "MAC2311"
+        ],
+        "MAC3472": [
+          "MAC2311"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "COT3100",
+      "rawPrereq": "Credits: 3; Prereq: MAC 2233 or MAC 2311 or MAC 3472; Coreq: COP 3504 or COP 3503.",
+      "notes": ""
+    },
+    "EEE4260C": {
+      "id": "EEE4260C",
+      "title": "Bioelectrical Systems",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EEL3008",
+        "EEL3112"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EEE4260C",
+      "rawPrereq": "Credits: 4; Prereq: EEL 3008 and EEL 3112.",
+      "notes": ""
+    },
+    "EEE5283": {
+      "id": "EEE5283",
+      "title": "Neural Signals, Systems and Technology",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EEE5283",
+      "rawPrereq": "Credits: 3; Prereq: Graduate standing in engineering and/or neuroscience or undergraduate",
+      "notes": ""
+    },
+    "EEE5502": {
+      "id": "EEE5502",
+      "title": "Foundations of Digital Signal Processing",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EEL4750"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EEE5502",
+      "rawPrereq": "Credits: 3. Prereq: None. Students may not take this course if they have already taken EEL 4750.",
+      "notes": ""
+    },
+    "EEE6561": {
+      "id": "EEE6561",
+      "title": "Fundamentals of Biometric Identification",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EEE6512"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": true,
+      "displayId": "EEE6561",
+      "rawPrereq": "Credits: 3; Prereq: EEE 6512 or instructor approval.",
+      "notes": ""
+    },
+    "EEL3872": {
+      "id": "EEL3872",
+      "title": "Artificial Intelligence Fundamentals",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EEL3872",
+      "rawPrereq": "Credits: 3; Prereq: Junior standing or above",
+      "notes": ""
+    },
+    "EEL4750": {
+      "id": "EEL4750",
+      "title": "Foundations of Digital Signal Processing",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EEL3135"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {
+        "EEL3135": [
+          "BME3508"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EEL4750",
+      "rawPrereq": "Credits: 3; Prereq: EEL 3135.",
+      "notes": ""
+    },
+    "EEL5934": {
+      "id": "EEL5934",
+      "title": "Neural Signals, Systems, and Technology",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EEL5934",
+      "rawPrereq": "Credits: 3; Prerequisite: While there are no formal prerequisites, it is expected that students",
+      "notes": ""
+    },
+    "EEL6537": {
+      "id": "EEL6537",
+      "title": "Spectral Estimation",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EEL5544",
+        "EEE5502"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EEL6537",
+      "rawPrereq": "Credits: 3; Prereq: EEL 5544, EEE 5502.",
+      "notes": ""
+    },
+    "EEL6825": {
+      "id": "EEL6825",
+      "title": "Pattern Recognition and Intelligent Systems",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EEL6825",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "EEL6935": {
+      "id": "EEL6935",
+      "title": "Deep Learning",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EEL6935",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "EGM3344": {
+      "id": "EGM3344",
+      "title": "Introduction to Numerical Methods of Engineering Analysis",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAC2313",
+        "COP2271",
+        "MAP2302"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGM3344",
+      "rawPrereq": "Credits: 3; Prereq: MAC 2313 and COP 2271; Coreq: MAP 2302.",
+      "notes": ""
+    },
+    "EGM3401": {
+      "id": "EGM3401",
+      "title": "Engineering Mechanics: Dynamics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "EGM2511",
+        "EGM2500",
+        "MAC2313"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGM3401",
+      "rawPrereq": "Credits: 3; Prereq: EGM 2511 or EGM 2500, and MAC 2313.",
+      "notes": ""
+    },
+    "EGM3520": {
+      "id": "EGM3520",
+      "title": "Mechanics of Materials",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "EGM2511",
+        "MAC2313"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGM3520",
+      "rawPrereq": "Credits: 3 credits; Prereq: EGM 2511 and MAC 2313.",
+      "notes": ""
+    },
+    "EGM4313": {
+      "id": "EGM4313",
+      "title": "Intermediate Engineering Analysis",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAP2302",
+        "EGM3344"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGM4313",
+      "rawPrereq": "Credits: 3; Prerequisite: MAP 2302 and EGM 3344.",
+      "notes": ""
+    },
+    "EGM4585": {
+      "id": "EGM4585",
+      "title": "Modeling and Control of Biomolecular Machines",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAP2302"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGM4585",
+      "rawPrereq": "Credits: 3; Prereq: MAP 2302 with a minimum grade of C.",
+      "notes": ""
+    },
+    "EGM4590": {
+      "id": "EGM4590",
+      "title": "Biodynamics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EGM3400",
+        "EGM3401"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": true,
+      "displayId": "EGM4590",
+      "rawPrereq": "Credits: 3; Prereq: EGM 3400 or EGM 3401, or instructor permission.",
+      "notes": ""
+    },
+    "EGM4592": {
+      "id": "EGM4592",
+      "title": "Bio-Solid Mechanics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EGM3520"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGM4592",
+      "rawPrereq": "Credits: 3; Prereq: EGM 3520.",
+      "notes": ""
+    },
+    "EGM4853": {
+      "id": "EGM4853",
+      "title": "Bio-Fluid Mechanics and Bio-Heat Transfer",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EGN3353C"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGM4853",
+      "rawPrereq": "Credits: 3; Prereq: EGN 3353C.",
+      "notes": ""
+    },
+    "EGM6352": {
+      "id": "EGM6352",
+      "title": "Advanced Finite Element Methods",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EGM6351"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGM6352",
+      "rawPrereq": "Credits: 3. Prereq: EGM 6351.",
+      "notes": ""
+    },
+    "EGM6611": {
+      "id": "EGM6611",
+      "title": "Continuum Methods",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EGM3520"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGM6611",
+      "rawPrereq": "Credits: 3; Prereq: EGM 3520.",
+      "notes": ""
+    },
+    "EGM6671": {
+      "id": "EGM6671",
+      "title": "Inelastic Materials",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EGM6611"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGM6671",
+      "rawPrereq": "Credits: 3; Prereq: EGM 6611.",
+      "notes": ""
+    },
+    "EGM6812": {
+      "id": "EGM6812",
+      "title": "Fluid Mechanics I",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EGN3353C"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGM6812",
+      "rawPrereq": "Credits: 3; Prereq: EGN 3353C.",
+      "notes": ""
+    },
+    "EGM6813": {
+      "id": "EGM6813",
+      "title": "Fluid Mechanics II",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EGM6812"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGM6813",
+      "rawPrereq": "Credits: 3; Prereq: EGM 6812.",
+      "notes": ""
+    },
+    "EGM6855": {
+      "id": "EGM6855",
+      "title": "Bio-Fluid Mechanics and Bio-Heat Transfer",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGM6855",
+      "rawPrereq": "Credits: 3; Prereq: undergraduate fluid mechanics.",
+      "notes": ""
+    },
+    "EGN3353C": {
+      "id": "EGN3353C",
+      "title": "Fluid Mechanics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAC2313",
+        "EGM2511",
+        "EML3100"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGN3353C",
+      "rawPrereq": "Credits: 3; Prereq: MAC 2313 with a minimum grade of C and EGM 2511 and (EML 3100 or",
+      "notes": ""
+    },
+    "EGN4641": {
+      "id": "EGN4641",
+      "title": "Engineering Entrepreneurship",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGN4641",
+      "rawPrereq": "Credits: 3; Prereq: junior or senior standing.",
+      "notes": ""
+    },
+    "EGN4643": {
+      "id": "EGN4643",
+      "title": "Engineering Innovation",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGN4643",
+      "rawPrereq": "Credits: 3; Prereq: junior or senior standing.",
+      "notes": ""
+    },
+    "EGN4912": {
+      "id": "EGN4912",
+      "title": "Engineering Undergraduate Research",
+      "credits": 0,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": true,
+      "maxCredits": 3,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGN4912",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "EGN6640": {
+      "id": "EGN6640",
+      "title": "Entrepreneurship for Engineers",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGN6640",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "EGN6642": {
+      "id": "EGN6642",
+      "title": "Engineering Innovation",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGN6642",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "EGS4038": {
+      "id": "EGS4038",
+      "title": "Engineering Leadership",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGS4038",
+      "rawPrereq": "Credits: 3; Prereq: junior or senior standing.",
+      "notes": ""
+    },
+    "EGS4625": {
+      "id": "EGS4625",
+      "title": "Fundamentals of Engineering Project Management",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGS4625",
+      "rawPrereq": "Credits: 3; Prereq: junior or senior standing.",
+      "notes": ""
+    },
+    "EGS4680": {
+      "id": "EGS4680",
+      "title": "Advanced Engineering Leadership Development",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EGS4038"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": true,
+      "displayId": "EGS4680",
+      "rawPrereq": "Credits: 3; Prereq: EGS 4038 or instructor permission.",
+      "notes": ""
+    },
+    "EGS6039": {
+      "id": "EGS6039",
+      "title": "Engineering Leadership",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGS6039",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "EGS6626": {
+      "id": "EGS6626",
+      "title": "Fundamentals of Engineering Project Management",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGS6626",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "EGS6681": {
+      "id": "EGS6681",
+      "title": "Advanced Engineering Leadership",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EGS6039"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": true,
+      "displayId": "EGS6681",
+      "rawPrereq": "Credits: 3; Prereq: EGS 6039 or instructor approval.",
+      "notes": ""
+    },
+    "EIN3354": {
+      "id": "EIN3354",
+      "title": "Engineering Economy",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAC2312"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EIN3354",
+      "rawPrereq": "Credits: 3; Prereq: MAC 2312 with a minimum grade of C.",
+      "notes": ""
+    },
+    "EMA3066": {
+      "id": "EMA3066",
+      "title": "Introduction to Organic Materials",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EMA3010",
+        "EMA3011",
+        "CHM2200",
+        "CHM2210"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA3066",
+      "rawPrereq": "Credits: 3; Prereq: EMA 3010 and one of the following: EMA 3011, CHM 2200 or CHM 2210.",
+      "notes": ""
+    },
+    "EMA3413": {
+      "id": "EMA3413",
+      "title": "Electronic Properties of Materials",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EMA3010"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA3413",
+      "rawPrereq": "Credits: 3; Prereq: EMA 3010.",
+      "notes": ""
+    },
+    "EMA3513C": {
+      "id": "EMA3513C",
+      "title": "Analysis of the Structure of Materials",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EMA3010"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA3513C",
+      "rawPrereq": "Credits: 4; Prereq: EMA 3010.",
+      "notes": ""
+    },
+    "EMA4061": {
+      "id": "EMA4061",
+      "title": "Biomaterials: Structure & Properties",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EMA3066"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA4061",
+      "rawPrereq": "Credits: 3; Coreq: EMA 3066.",
+      "notes": ""
+    },
+    "EMA4062": {
+      "id": "EMA4062",
+      "title": "Biopolymers: Manufacture, Stability and Biocompatibility",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EMA3066"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA4062",
+      "rawPrereq": "Credits: 3; Prereq: EMA 3066.",
+      "notes": ""
+    },
+    "EMA4161": {
+      "id": "EMA4161",
+      "title": "Physical Properties of Polymers",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EMA3066",
+        "EMA3513C"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA4161",
+      "rawPrereq": "Credits: 3; Prereq: EMA 3066 and EMA 3513C.",
+      "notes": ""
+    },
+    "EMA6580": {
+      "id": "EMA6580",
+      "title": "Science of Biomaterials I",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "CHM2045",
+        "CHM2095"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {
+        "CHM2095": [
+          "CHM2045"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA6580",
+      "rawPrereq": "Credits: 3. Prereq: (CHM2045 or CHM2095) or equivalent.",
+      "notes": ""
+    },
+    "EMA6581": {
+      "id": "EMA6581",
+      "title": "Polymeric Biomaterials",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "CHM2045",
+        "CHM2095",
+        "EMA3066"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {
+        "CHM2095": [
+          "CHM2045"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA6581",
+      "rawPrereq": "Credits: 3; Prereq: ((CHM2045 or CHM2095) & EMA3066) or equivalents.",
+      "notes": ""
+    },
+    "EMA6938": {
+      "id": "EMA6938",
+      "title": "Nanomaterials: Theory to Practice",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA6938",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "EMA6938_POLYMERS_IN_DRUG_D": {
+      "id": "EMA6938_POLYMERS_IN_DRUG_D",
+      "title": "Polymers in Drug Delivery",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA6938",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "EML2023": {
+      "id": "EML2023",
+      "title": "Computer Aided Graphics and Design",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EML2023",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "EML4507": {
+      "id": "EML4507",
+      "title": "Finite Element Analysis and Design",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EGM3344",
+        "EGM3520",
+        "MAP2302"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EML4507",
+      "rawPrereq": "Credits: 3; Prereq: EGM 3344, EGM 3520 and MAP 2302 with minimum grades of C.",
+      "notes": ""
+    },
+    "EML5595": {
+      "id": "EML5595",
+      "title": "Mechanics of the Human Locomotor Systems",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EGM3401",
+        "EGM3520"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EML5595",
+      "rawPrereq": "Credits: 3; Prereq: EGM 3401, EGM 3520.",
+      "notes": ""
+    },
+    "EML5598": {
+      "id": "EML5598",
+      "title": "Orthopedic Biomechanics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EML5598",
+      "rawPrereq": "Credits: 3; Prereq: Mechanics of Materials.",
+      "notes": ""
+    },
+    "ENU4605": {
+      "id": "ENU4605",
+      "title": "Radiation Interactions and Sources 1",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "ENU4605",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "ENU4630": {
+      "id": "ENU4630",
+      "title": "Fundamental Aspects of Radiation Shielding",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "ENU4605"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "ENU4630",
+      "rawPrereq": "Credits: 3; Prereq: ENU 4605 with a minimum grade of C.",
+      "notes": ""
+    },
+    "ENU4641C": {
+      "id": "ENU4641C",
+      "title": "Applied Radiation Protection",
+      "credits": 2,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "ENU4605",
+        "ENU4630"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "ENU4641C",
+      "rawPrereq": "Credits: 2; Prereq: ENU 4605 with a minimum grade of C and ENU 4630.",
+      "notes": ""
+    },
+    "ENU5626": {
+      "id": "ENU5626",
+      "title": "Radiation Biology",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "ENU5626",
+      "rawPrereq": "Credits: 3; Prereq: one year each of college biology, chemistry, and physics; permission of",
+      "notes": ""
+    },
+    "ENU6659": {
+      "id": "ENU6659",
+      "title": "Nuclear Medicine Instrumentation and Procedure",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "ENU5615C"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": true,
+      "displayId": "ENU6659",
+      "rawPrereq": "Credits: 3; Prereq: ENU5615C or equivalent.",
+      "notes": ""
+    },
+    "ESI3327C": {
+      "id": "ESI3327C",
+      "title": "Matrix and Numerical Methods in Systems Engineering",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAC2313",
+        "MAP2302"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "ESI3327C",
+      "rawPrereq": "Credits: 4; Prereq: MAC 2313 and MAP 2302 with minimum grades of C.",
+      "notes": ""
+    },
+    "ESI4327C": {
+      "id": "ESI4327C",
+      "title": "Matrix and Numerical Methods in Systems Engineering",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAC2313",
+        "MAP2302"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "ESI4327C",
+      "rawPrereq": "Credits: 4; Prerequisite: MAC 2313 and MAP 2302 with minimum grades of C.",
+      "notes": ""
+    },
+    "GMS5905": {
+      "id": "GMS5905",
+      "title": "Biomechanics in Orthopedics and Rehabilitation",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "GMS5905",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "HSA4191": {
+      "id": "HSA4191",
+      "title": "Health Informatics & Emerging Healthcare Technologies",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "HSA4191",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "HSC3537": {
+      "id": "HSC3537",
+      "title": "Health and Medical Terminology",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "HSC3537",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "MAS3114": {
+      "id": "MAS3114",
+      "title": "Computational Linear Algebra",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "MAC2312",
+        "MAC2512",
+        "MAC3473"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {
+        "MAC2512": [
+          "MAC2312"
+        ],
+        "MAC3473": [
+          "MAC2312"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "MAS3114",
+      "rawPrereq": "Credits: 3; Prereq: MAC 2312, MAC 2512 or MAC 3473 with a minimum grade of C and",
+      "notes": ""
+    },
+    "MCB3020": {
+      "id": "MCB3020",
+      "title": "Basic Biology of Microorganisms",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "BSC2010",
+        "BSC2010L",
+        "ISC2400L",
+        "ISC2401L"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "MCB3020",
+      "rawPrereq": "Credits: 3; Prereq: BSC 2010 and BSC 2010L, or ISC 2400L, or ISC 2401L, or equivalent, with",
+      "notes": ""
+    },
+    "MCB3020L": {
+      "id": "MCB3020L",
+      "title": "Laboratory for Basic Biology of Microorganisms",
+      "credits": 1,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "MCB3020"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "MCB3020L",
+      "rawPrereq": "Credits: 1; Prereq: non-Microbiology and Cell Science major. Coreq: MCB 3020.",
+      "notes": ""
+    },
+    "MCB3023": {
+      "id": "MCB3023",
+      "title": "Principles of Microbiology",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "BSC2010",
+        "BSC2010L",
+        "ISC2400L",
+        "ISC2401L"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "MCB3023",
+      "rawPrereq": "Credits: 3 credits; Prerequisite: BSC 2010 and BSC 2010L, or ISC 2400L, or ISC 2401L, or",
+      "notes": ""
+    },
+    "MCB3023L": {
+      "id": "MCB3023L",
+      "title": "Principles of Microbiology Laboratory",
+      "credits": 2,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MCB3023"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "MCB3023L",
+      "rawPrereq": "Credits: 2; Prerequisite: MCB or MCY major; Corequisite: MCB 3023.",
+      "notes": ""
+    },
+    "MDU4003": {
+      "id": "MDU4003",
+      "title": "Introduction to the Professions of Medicine",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "MDU4003",
+      "rawPrereq": "",
+      "notes": ""
+    },
+    "MDU4061": {
+      "id": "MDU4061",
+      "title": "Introduction to Medical Bioethics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "MDU4003"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "MDU4061",
+      "rawPrereq": "Credits: 3; Prereq: MDU 4003.",
+      "notes": ""
+    },
+    "PCB3063": {
+      "id": "PCB3063",
+      "title": "Genetics",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "BSC2011",
+        "BSC2011L"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "PCB3063",
+      "rawPrereq": "Credits: 4; Prereq: BSC 2011 and BSC 2011L, or equivalent, with minimum grades of C and",
+      "notes": ""
+    },
+    "PHY3101": {
+      "id": "PHY3101",
+      "title": "Introduction to Modern Physics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "PHY2049"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "PHY3101",
+      "rawPrereq": "Credits: 3; Prereq: PHY 2049 or the equivalent.",
+      "notes": ""
+    },
+    "PHY3323": {
+      "id": "PHY3323",
+      "title": "Electromagnetism 1",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "PHY2049",
+        "PHY2061",
+        "MAP2302"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {
+        "PHY2061": [
+          "PHY2049"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "PHY3323",
+      "rawPrereq": "Credits: 3; Prereq: PHY 2049 and PHY 2061, or the equivalent; MAP 2302 or the equivalent.",
+      "notes": ""
+    },
+    "PHY4604": {
+      "id": "PHY4604",
+      "title": "Introductory Quantum Mechanics 1",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "PHY3101",
+        "PHY3063",
+        "MAP2302"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {
+        "PHY3063": [
+          "PHY3101"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "PHY4604",
+      "rawPrereq": "Credits: 3; Prereq: (PHY 3101 or PHY 3063) and MAP 2302 or the equivalent. Frist of",
+      "notes": ""
+    }
+  }
+}
