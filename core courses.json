@@ -254,6 +254,45 @@
       "offeringAdvisory": false,
       "notes": ""
     },
+    "CHM2210": {
+      "title": "Organic Chemistry 1",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "CHM2046"
+      ],
+      "id": "CHM2210",
+      "coreq": [],
+      "placeholder": false,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "notes": "First half of CHM2210/CHM2211 sequence. Transfer-pathway alternative to CHM3217; CHM2211 is treated as equivalent to CHM3217 for downstream prereqs (see CHM2211's equivalencies)."
+    },
+    "CHM2211": {
+      "title": "Organic Chemistry 2",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "CHM2210"
+      ],
+      "id": "CHM2211",
+      "coreq": [],
+      "placeholder": false,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "equivalencies": {},
+      "notes": "Second half of CHM2210/CHM2211 sequence. Transfer-pathway alternative to CHM3217. CHM2210 is its own prereq, so completing CHM2211 implies CHM2210 was completed."
+    },
     "COP2271": {
       "title": "Computer Programming for Engineers",
       "credits": 2,
@@ -500,7 +539,12 @@
       "approvedBmeElective": false,
       "provisional": false,
       "offeringAdvisory": false,
-      "notes": ""
+      "notes": "",
+      "equivalencies": {
+        "CHM3217": [
+          "CHM2211"
+        ]
+      }
     },
     "BME3508": {
       "title": "Biosignals and Systems",
@@ -605,7 +649,12 @@
       "approvedBmeElective": false,
       "provisional": false,
       "offeringAdvisory": false,
-      "notes": ""
+      "notes": "",
+      "equivalencies": {
+        "CHM3217": [
+          "CHM2211"
+        ]
+      }
     },
     "BME3323L": {
       "title": "Cellular Engineering Lab",
@@ -793,7 +842,12 @@
       "approvedBmeElective": false,
       "provisional": false,
       "offeringAdvisory": false,
-      "notes": ""
+      "notes": "",
+      "equivalencies": {
+        "CHM3217": [
+          "CHM2211"
+        ]
+      }
     },
     "BME4883": {
       "title": "Senior Design, Professionalism and Ethics 2",

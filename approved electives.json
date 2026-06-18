@@ -131,7 +131,6 @@
         "Su"
       ],
       "prereq": [
-        "CHM2211",
         "CHM3217"
       ],
       "coreq": [],
@@ -142,8 +141,8 @@
       "variableCredit": false,
       "maxCredits": null,
       "equivalencies": {
-        "CHM2211": [
-          "CHM3217"
+        "CHM3217": [
+          "CHM2211"
         ]
       },
       "instructorPermissionMaySubstitute": true,
@@ -233,8 +232,7 @@
         "S"
       ],
       "prereq": [
-        "BME3508",
-        "EEL3135"
+        "BME3508"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -244,8 +242,8 @@
       "variableCredit": false,
       "maxCredits": null,
       "equivalencies": {
-        "EEL3135": [
-          "BME3508"
+        "BME3508": [
+          "EEL3135"
         ]
       },
       "instructorPermissionMaySubstitute": false,
@@ -636,9 +634,7 @@
       "prereq": [
         "COP3504",
         "COP3205",
-        "MAC2233",
-        "MAC2311",
-        "MAC3472"
+        "MAC2311"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -648,11 +644,9 @@
       "variableCredit": false,
       "maxCredits": null,
       "equivalencies": {
-        "MAC2233": [
-          "MAC2311"
-        ],
-        "MAC3472": [
-          "MAC2311"
+        "MAC2311": [
+          "MAC2233",
+          "MAC3472"
         ]
       },
       "instructorPermissionMaySubstitute": false,
@@ -670,8 +664,7 @@
         "Su"
       ],
       "prereq": [
-        "CHM3217",
-        "CHM2211"
+        "CHM3217"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -681,8 +674,8 @@
       "variableCredit": false,
       "maxCredits": null,
       "equivalencies": {
-        "CHM2211": [
-          "CHM3217"
+        "CHM3217": [
+          "CHM2211"
         ]
       },
       "instructorPermissionMaySubstitute": true,
@@ -832,9 +825,7 @@
         "Su"
       ],
       "prereq": [
-        "MAC2233",
         "MAC2311",
-        "MAC3472",
         "COP3504",
         "COP3503"
       ],
@@ -846,11 +837,9 @@
       "variableCredit": false,
       "maxCredits": null,
       "equivalencies": {
-        "MAC2233": [
-          "MAC2311"
-        ],
-        "MAC3472": [
-          "MAC2311"
+        "MAC2311": [
+          "MAC2233",
+          "MAC3472"
         ]
       },
       "instructorPermissionMaySubstitute": false,
@@ -1895,8 +1884,7 @@
         "S"
       ],
       "prereq": [
-        "CHM2045",
-        "CHM2095"
+        "CHM2045"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -1906,8 +1894,8 @@
       "variableCredit": false,
       "maxCredits": null,
       "equivalencies": {
-        "CHM2095": [
-          "CHM2045"
+        "CHM2045": [
+          "CHM2095"
         ]
       },
       "instructorPermissionMaySubstitute": false,
@@ -1925,7 +1913,6 @@
       ],
       "prereq": [
         "CHM2045",
-        "CHM2095",
         "EMA3066"
       ],
       "coreq": [],
@@ -1936,8 +1923,8 @@
       "variableCredit": false,
       "maxCredits": null,
       "equivalencies": {
-        "CHM2095": [
-          "CHM2045"
+        "CHM2045": [
+          "CHM2095"
         ]
       },
       "instructorPermissionMaySubstitute": false,
@@ -2329,9 +2316,7 @@
         "Su"
       ],
       "prereq": [
-        "MAC2312",
-        "MAC2512",
-        "MAC3473"
+        "MAC2312"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -2341,11 +2326,9 @@
       "variableCredit": false,
       "maxCredits": null,
       "equivalencies": {
-        "MAC2512": [
-          "MAC2312"
-        ],
-        "MAC3473": [
-          "MAC2312"
+        "MAC2312": [
+          "MAC2512",
+          "MAC3473"
         ]
       },
       "instructorPermissionMaySubstitute": false,
@@ -2565,7 +2548,6 @@
       ],
       "prereq": [
         "PHY2049",
-        "PHY2061",
         "MAP2302"
       ],
       "coreq": [],
@@ -2576,8 +2558,8 @@
       "variableCredit": false,
       "maxCredits": null,
       "equivalencies": {
-        "PHY2061": [
-          "PHY2049"
+        "PHY2049": [
+          "PHY2061"
         ]
       },
       "instructorPermissionMaySubstitute": false,
@@ -2595,7 +2577,6 @@
       ],
       "prereq": [
         "PHY3101",
-        "PHY3063",
         "MAP2302"
       ],
       "coreq": [],
@@ -2606,8 +2587,8 @@
       "variableCredit": false,
       "maxCredits": null,
       "equivalencies": {
-        "PHY3063": [
-          "PHY3101"
+        "PHY3101": [
+          "PHY3063"
         ]
       },
       "instructorPermissionMaySubstitute": false,
