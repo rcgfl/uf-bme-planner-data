@@ -71,6 +71,24 @@
       "offeringAdvisory": false,
       "notes": ""
     },
+    "CHM2095": {
+      "title": "Applied General Chemistry 1",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "id": "CHM2095",
+      "coreq": [],
+      "placeholder": false,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "equivalentCreditOnly": true,
+      "notes": "Engineering-track equivalent of CHM2045. Accepted as CHM2045 substitute for downstream prereqs."
+    },
     "CHM2045L": {
       "title": "General Chemistry Laboratory",
       "credits": 1,
@@ -121,6 +139,41 @@
       "provisional": false,
       "offeringAdvisory": false,
       "notes": ""
+    },
+    "MAC2233": {
+      "title": "Survey of Calculus 1",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "id": "MAC2233",
+      "coreq": [],
+      "placeholder": false,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "equivalentCreditOnly": true,
+      "notes": "Transfer/AP equivalent of MAC2311. UF awards credit for at most one of MAC2233 or MAC2311."
+    },
+    "MAC3472": {
+      "title": "Honors Calculus 1",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "id": "MAC3472",
+      "coreq": [],
+      "placeholder": false,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "equivalentCreditOnly": true,
+      "notes": "Honors equivalent of MAC2311. UF awards credit for at most one of MAC2311 or MAC3472."
     },
     "CHM2046": {
       "title": "General Chemistry 2",
@@ -175,7 +228,32 @@
       "approvedBmeElective": false,
       "provisional": false,
       "offeringAdvisory": false,
-      "notes": ""
+      "notes": "",
+      "equivalencies": {
+        "ENC1101": [
+          "ENC1102"
+        ]
+      }
+    },
+    "ENC1102": {
+      "title": "Argument and Persuasion",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "ENC1101"
+      ],
+      "id": "ENC1102",
+      "coreq": [],
+      "placeholder": false,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "equivalentCreditOnly": true,
+      "notes": "Satisfies the same Composition Gen Ed requirement as ENC1101. Engineering majors take one or the other, not both."
     },
     "MAC2312": {
       "title": "Analytic Geometry and Calculus 2",
@@ -195,6 +273,45 @@
       "provisional": false,
       "offeringAdvisory": false,
       "notes": ""
+    },
+    "MAC2512": {
+      "title": "Analytic Geometry and Calculus 2",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "MAC2311"
+      ],
+      "id": "MAC2512",
+      "coreq": [],
+      "placeholder": false,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "equivalentCreditOnly": true,
+      "notes": "AP/UF Online equivalent of MAC2312. UF awards credit for at most one of MAC2312, MAC2512, or MAC3473."
+    },
+    "MAC3473": {
+      "title": "Honors Calculus 2",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAC3472"
+      ],
+      "id": "MAC3473",
+      "coreq": [],
+      "placeholder": false,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "equivalentCreditOnly": true,
+      "notes": "Honors equivalent of MAC2312. UF awards credit for at most one of MAC2312, MAC2512, or MAC3473."
     },
     "PHY2048": {
       "title": "Physics with Calculus 1",
@@ -364,6 +481,44 @@
       "provisional": false,
       "offeringAdvisory": false,
       "notes": ""
+    },
+    "PHY2061": {
+      "title": "Physics with Calculus 2 (Honors)",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "PHY2048"
+      ],
+      "id": "PHY2061",
+      "coreq": [],
+      "placeholder": false,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "equivalentCreditOnly": true,
+      "notes": "Honors equivalent of PHY2049. Accepted as PHY2049 substitute for downstream prereqs."
+    },
+    "PHY3063": {
+      "title": "Physics with Calculus 3 (Honors)",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "PHY2061"
+      ],
+      "id": "PHY3063",
+      "coreq": [],
+      "placeholder": false,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "equivalentCreditOnly": true,
+      "notes": "Honors equivalent of PHY3101. Accepted as PHY3101 substitute for downstream prereqs."
     },
     "PHY2049L": {
       "title": "Lab for Physics with Calculus 2",
@@ -630,6 +785,28 @@
       "provisional": false,
       "offeringAdvisory": false,
       "notes": ""
+    },
+    "EEL3135": {
+      "title": "Introduction to Signals and Systems",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [
+        "MAC2313"
+      ],
+      "id": "EEL3135",
+      "coreq": [
+        "MAP2302"
+      ],
+      "placeholder": false,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "equivalentCreditOnly": true,
+      "notes": "EE-track equivalent of BME3508. Accepted as BME3508 substitute for downstream prereqs in elective courses."
     },
     "BME4311": {
       "title": "Molecular Biomedical Engineering",
