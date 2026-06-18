@@ -228,12 +228,7 @@
       "approvedBmeElective": false,
       "provisional": false,
       "offeringAdvisory": false,
-      "notes": "",
-      "equivalencies": {
-        "ENC1101": [
-          "ENC1102"
-        ]
-      }
+      "notes": ""
     },
     "ENC1102": {
       "title": "Argument and Persuasion",
