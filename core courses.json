@@ -346,6 +346,27 @@
       "offeringAdvisory": false,
       "notes": ""
     },
+    "PHY2060": {
+      "title": "Enriched Physics with Calculus 1",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAC2311"
+      ],
+      "id": "PHY2060",
+      "coreq": [
+        "MAC2312"
+      ],
+      "placeholder": false,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "equivalentCreditOnly": true,
+      "notes": "Honors/enriched equivalent of PHY2048. Covers same material with additional advanced topics. Accepted as PHY2048 substitute for downstream prereqs."
+    },
     "CHM3217": {
       "title": "Organic Chemistry/Biochemistry 1",
       "credits": 4,
@@ -801,7 +822,7 @@
       "provisional": false,
       "offeringAdvisory": false,
       "equivalentCreditOnly": true,
-      "notes": "EE-track equivalent of BME3508. Accepted as BME3508 substitute for downstream prereqs in elective courses."
+      "notes": "Electrical Engineering equivalent of BME3508 (Signals and Systems). Accepted as BME3508 substitute for downstream prereq checks in elective courses."
     },
     "BME4311": {
       "title": "Molecular Biomedical Engineering",

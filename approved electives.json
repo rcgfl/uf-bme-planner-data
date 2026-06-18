@@ -217,7 +217,11 @@
       "graduateLevel": false,
       "variableCredit": false,
       "maxCredits": null,
-      "equivalencies": {},
+      "equivalencies": {
+        "PHY2048": [
+          "PHY2060"
+        ]
+      },
       "instructorPermissionMaySubstitute": false,
       "displayId": "BME4160",
       "rawPrereq": "Credits: 3; Prereq: PHY 2048 and CHM 2046 or CHM 2096 with minimum grades of C.",
