@@ -1109,6 +1109,25 @@
       "provisional": false,
       "offeringAdvisory": false,
       "notes": ""
+    },
+    "PHY3101": {
+      "title": "Modern Physics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "PHY2049"
+      ],
+      "id": "PHY3101",
+      "coreq": [],
+      "placeholder": false,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "equivalentCreditOnly": true,
+      "notes": "Standard Modern Physics course. Prerequisite for PHY4604 (elective). PHY3063 (Honors) is its equivalent."
     }
   }
 }
