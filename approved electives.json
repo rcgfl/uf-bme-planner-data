@@ -915,7 +915,7 @@
       },
       "instructorPermissionMaySubstitute": false,
       "displayId": "COT3100",
-      "rawPrereq": "Credits: 3; Prereq: MAC 2233 or MAC 2311 or MAC 3472; Coreq: COP 3504 or COP 3503.",
+      "rawPrereq": "Credits: 3; Prereq: (MAC 2311 or MAC 3472) and (COP 3502C or equivalent), all with a minimum grades of C; Coreq: COP 3504 or COP 3503.",
       "notes": "",
       "equivalentCreditOnly": false,
       "placeholder": false
