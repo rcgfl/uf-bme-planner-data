@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "source": "UF BME Approved Elective List",
   "lastUpdated": "2026-06",
-  "description": "UF BME approved technical electives. Offering data is advisory only \u2014 verify with department before registering.",
+  "description": "UF BME approved technical electives. Offering data is advisory only — verify with department before registering.",
   "courses": {
     "ABE4033": {
       "id": "ABE4033",
@@ -623,7 +623,7 @@
       "equivalencies": {},
       "instructorPermissionMaySubstitute": false,
       "displayId": "BME6705",
-      "rawPrereq": "Credits: 3; Prereq: calculus, linear algebra, and passing knowledge of di\ufb00erential equations.",
+      "rawPrereq": "Credits: 3; Prereq: calculus, linear algebra, and passing knowledge of diﬀerential equations.",
       "notes": ""
     },
     "CDA3101": {
@@ -637,8 +637,8 @@
       ],
       "prereq": [
         "COP3504",
-        "COP3205",
-        "MAC2311"
+        "MAC2311",
+        "COT3100"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -651,12 +651,17 @@
         "MAC2311": [
           "MAC2233",
           "MAC3472"
+        ],
+        "COP3504": [
+          "COP3503"
         ]
       },
       "instructorPermissionMaySubstitute": false,
       "displayId": "CDA3101",
       "rawPrereq": "Credits: 3; Prereq: (COP 3504 or COP 3205) and (MAC2233 or MAC 2311 or MAC 3472) and",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
     "CHM3218": {
       "id": "CHM3218",
