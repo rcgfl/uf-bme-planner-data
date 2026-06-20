@@ -828,7 +828,9 @@
       "instructorPermissionMaySubstitute": false,
       "displayId": "COP4600",
       "rawPrereq": "Credits: 3; Prereq: CDA 3101 and COP 3530; knowledge of C or C++ recommended. Design",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
     "COT3100": {
       "id": "COT3100",
@@ -841,10 +843,11 @@
       ],
       "prereq": [
         "MAC2311",
-        "COP3504",
+        "COP3502"
+      ],
+      "coreq": [
         "COP3503"
       ],
-      "coreq": [],
       "approvedBmeElective": true,
       "provisional": false,
       "offeringAdvisory": true,
@@ -853,14 +856,18 @@
       "maxCredits": null,
       "equivalencies": {
         "MAC2311": [
-          "MAC2233",
           "MAC3472"
+        ],
+        "COP3503": [
+          "COP3504"
         ]
       },
       "instructorPermissionMaySubstitute": false,
       "displayId": "COT3100",
       "rawPrereq": "Credits: 3; Prereq: MAC 2233 or MAC 2311 or MAC 3472; Coreq: COP 3504 or COP 3503.",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
     "EEE4260C": {
       "id": "EEE4260C",
