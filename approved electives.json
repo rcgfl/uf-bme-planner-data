@@ -24,11 +24,17 @@
       "graduateLevel": false,
       "variableCredit": false,
       "maxCredits": null,
-      "equivalencies": {},
+      "equivalencies": {
+        "CHM2200": [
+          "CHM3217"
+        ]
+      },
       "instructorPermissionMaySubstitute": false,
       "displayId": "ABE4033",
       "rawPrereq": "Credits: 3; Prereq: MAP 2302, BSC 2010 and CHM 2200.",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
     "ABE5038": {
       "id": "ABE5038",
@@ -61,7 +67,9 @@
         "S",
         "Su"
       ],
-      "prereq": [],
+      "prereq": [
+        "BSC2010"
+      ],
       "coreq": [],
       "approvedBmeElective": true,
       "provisional": false,
@@ -73,7 +81,9 @@
       "instructorPermissionMaySubstitute": false,
       "displayId": "AGR3303",
       "rawPrereq": "Credits: 3; Prereq: basic course in biology, botany or zoology.",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
     "APK2100C": {
       "id": "APK2100C",
@@ -207,8 +217,7 @@
       ],
       "prereq": [
         "PHY2048",
-        "CHM2046",
-        "CHM2096"
+        "CHM2046"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -220,12 +229,17 @@
       "equivalencies": {
         "PHY2048": [
           "PHY2060"
+        ],
+        "CHM2046": [
+          "CHM2096"
         ]
       },
       "instructorPermissionMaySubstitute": false,
       "displayId": "BME4160",
       "rawPrereq": "Credits: 3; Prereq: PHY 2048 and CHM 2046 or CHM 2096 with minimum grades of C.",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
     "BME4361": {
       "id": "BME4361",
@@ -314,7 +328,6 @@
         "BME3053C",
         "COP2271",
         "COP2271L",
-        "STA2023",
         "STA3032"
       ],
       "coreq": [],
@@ -324,11 +337,20 @@
       "graduateLevel": false,
       "variableCredit": false,
       "maxCredits": null,
-      "equivalencies": {},
+      "equivalencies": {
+        "STA3032": [
+          "STA2023"
+        ]
+      },
       "instructorPermissionMaySubstitute": false,
       "displayId": "BME4760",
       "rawPrereq": "Credits: 3. Prereq: BME 3053C, COP 2271, COP 2271L, and STA 2023 or STA3032.",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "flagOverrides": [
+        "or-flatten"
+      ]
     },
     "BME4931": {
       "id": "BME4931",
@@ -419,7 +441,12 @@
       "instructorPermissionMaySubstitute": false,
       "displayId": "BME5743",
       "rawPrereq": "Credits: 3; Prereq: COP 2271 or equivalent & BME 3053C or equivalent.",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "flagOverrides": [
+        "or-flatten"
+      ]
     },
     "BME6018": {
       "id": "BME6018",
@@ -443,7 +470,12 @@
       "instructorPermissionMaySubstitute": true,
       "displayId": "BME6018",
       "rawPrereq": "Credits: 3; Prereq: BME 5401 or waiver",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "flagOverrides": [
+        "dangling"
+      ]
     },
     "BME6164": {
       "id": "BME6164",
@@ -512,7 +544,13 @@
       "instructorPermissionMaySubstitute": true,
       "displayId": "BME6330",
       "rawPrereq": "Credits: 3; Prereq: GMS 6421, BME 5001, or consent of instructor.",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "flagOverrides": [
+        "or-flatten",
+        "dangling"
+      ]
     },
     "BME6360": {
       "id": "BME6360",
@@ -577,10 +615,15 @@
       "variableCredit": false,
       "maxCredits": null,
       "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
+      "instructorPermissionMaySubstitute": true,
       "displayId": "BME6533",
       "rawPrereq": "Credits: 3; Coreq: BME 6590 Medical Physics.",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "flagOverrides": [
+        "dangling"
+      ]
     },
     "BME6535": {
       "id": "BME6535",
@@ -726,10 +769,10 @@
         "S",
         "Su"
       ],
-      "prereq": [
+      "prereq": [],
+      "coreq": [
         "MAC2311"
       ],
-      "coreq": [],
       "approvedBmeElective": true,
       "provisional": false,
       "offeringAdvisory": true,
@@ -740,7 +783,9 @@
       "instructorPermissionMaySubstitute": false,
       "displayId": "COP3502",
       "rawPrereq": "Credits: 3; Coreq: MAC2311.",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
     "COP3503": {
       "id": "COP3503",
@@ -752,7 +797,8 @@
         "Su"
       ],
       "prereq": [
-        "COP3502"
+        "COP3502",
+        "MAC2311"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -764,8 +810,10 @@
       "equivalencies": {},
       "instructorPermissionMaySubstitute": false,
       "displayId": "COP3503",
-      "rawPrereq": "Credits: 3; Prereq: (COP 3502 with a minimum grade of C or an AP exam in computer science",
-      "notes": ""
+      "rawPrereq": "COP 3502C and MAC 2311 both with minimum grades of C.",
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
     "COP3530": {
       "id": "COP3530",
@@ -827,10 +875,13 @@
       "equivalencies": {},
       "instructorPermissionMaySubstitute": false,
       "displayId": "COP4600",
-      "rawPrereq": "Credits: 3; Prereq: CDA 3101 and COP 3530; knowledge of C or C++ recommended. Design",
+      "rawPrereq": "Credits: 3; Prereq: CDA 3101 and COP 3530; knowledge of C or C++ recommended.",
       "notes": "",
       "equivalentCreditOnly": false,
-      "placeholder": false
+      "placeholder": false,
+      "flagOverrides": [
+        "or-flatten"
+      ]
     },
     "COT3100": {
       "id": "COT3100",
@@ -1142,7 +1193,6 @@
       ],
       "prereq": [
         "EGM2511",
-        "EGM2500",
         "MAC2313"
       ],
       "coreq": [],
@@ -1155,8 +1205,10 @@
       "equivalencies": {},
       "instructorPermissionMaySubstitute": false,
       "displayId": "EGM3401",
-      "rawPrereq": "Credits: 3; Prereq: EGM 2511 or EGM 2500, and MAC 2313.",
-      "notes": ""
+      "rawPrereq": "Credits: 3; Prereq: EGM 2511 and MAC 2313.",
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
     "EGM3520": {
       "id": "EGM3520",
@@ -1242,8 +1294,7 @@
         "S"
       ],
       "prereq": [
-        "EGM3400",
-        "EGM3401"
+        "EGM3400"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -1252,11 +1303,17 @@
       "graduateLevel": false,
       "variableCredit": false,
       "maxCredits": null,
-      "equivalencies": {},
+      "equivalencies": {
+        "EGM3400": [
+          "EGM3401"
+        ]
+      },
       "instructorPermissionMaySubstitute": true,
       "displayId": "EGM4590",
       "rawPrereq": "Credits: 3; Prereq: EGM 3400 or EGM 3401, or instructor permission.",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
     "EGM4592": {
       "id": "EGM4592",
@@ -1468,11 +1525,21 @@
       "graduateLevel": false,
       "variableCredit": false,
       "maxCredits": null,
-      "equivalencies": {},
+      "equivalencies": {
+        "EML3100": [
+          "EML3007",
+          "BME3060"
+        ]
+      },
       "instructorPermissionMaySubstitute": false,
       "displayId": "EGN3353C",
-      "rawPrereq": "Credits: 3; Prereq: MAC 2313 with a minimum grade of C and EGM 2511 and (EML 3100 or",
-      "notes": ""
+      "rawPrereq": "Credits: 3; Prereq: MAC 2313 with a minimum grade of C and EGM 2511 and (EML 3100 or EML 3007 or BME 3060).",
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "flagOverrides": [
+        "or-flatten"
+      ]
     },
     "EGN4641": {
       "id": "EGN4641",
@@ -1758,10 +1825,7 @@
         "S"
       ],
       "prereq": [
-        "EMA3010",
-        "EMA3011",
-        "CHM2200",
-        "CHM2210"
+        "EMA3010"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -1770,11 +1834,17 @@
       "graduateLevel": false,
       "variableCredit": false,
       "maxCredits": null,
-      "equivalencies": {},
+      "equivalencies": {
+        "EMA3010": [
+          "BME3101"
+        ]
+      },
       "instructorPermissionMaySubstitute": false,
       "displayId": "EMA3066",
-      "rawPrereq": "Credits: 3; Prereq: EMA 3010 and one of the following: EMA 3011, CHM 2200 or CHM 2210.",
-      "notes": ""
+      "rawPrereq": "Credits: 3; Prereq: EMA 3010 or BME 3101.",
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
     "EMA3413": {
       "id": "EMA3413",
@@ -1952,10 +2022,12 @@
       "instructorPermissionMaySubstitute": false,
       "displayId": "EMA6581",
       "rawPrereq": "Credits: 3; Prereq: ((CHM2045 or CHM2095) & EMA3066) or equivalents.",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
-    "EMA6938": {
-      "id": "EMA6938",
+    "EMA6938_1": {
+      "id": "EMA6938_1",
       "title": "Nanomaterials: Theory to Practice",
       "credits": 3,
       "offered": [
@@ -1974,10 +2046,12 @@
       "instructorPermissionMaySubstitute": false,
       "displayId": "EMA6938",
       "rawPrereq": "",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
-    "EMA6938_POLYMERS_IN_DRUG_D": {
-      "id": "EMA6938_POLYMERS_IN_DRUG_D",
+    "EMA6938_2": {
+      "id": "EMA6938_2",
       "title": "Polymers in Drug Delivery",
       "credits": 3,
       "offered": [
@@ -1996,7 +2070,9 @@
       "instructorPermissionMaySubstitute": false,
       "displayId": "EMA6938",
       "rawPrereq": "",
-      "notes": ""
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
     "EML2023": {
       "id": "EML2023",
@@ -2369,9 +2445,9 @@
       ],
       "prereq": [
         "BSC2010",
-        "BSC2010L",
-        "ISC2400L",
-        "ISC2401L"
+        "BSC2011",
+        "CHM2045",
+        "CHM2046"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -2383,8 +2459,13 @@
       "equivalencies": {},
       "instructorPermissionMaySubstitute": false,
       "displayId": "MCB3020",
-      "rawPrereq": "Credits: 3; Prereq: BSC 2010 and BSC 2010L, or ISC 2400L, or ISC 2401L, or equivalent, with",
-      "notes": ""
+      "rawPrereq": "Credits: 3; Prereq: BSC 2010 and BSC 2011, and CHM 2045, and CHM 2046 with minimum grades of C",
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "flagOverrides": [
+        "dangling"
+      ]
     },
     "MCB3020L": {
       "id": "MCB3020L",
@@ -2421,9 +2502,9 @@
       ],
       "prereq": [
         "BSC2010",
-        "BSC2010L",
-        "ISC2400L",
-        "ISC2401L"
+        "BSC2011",
+        "CHM2045",
+        "CHM2046"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -2435,8 +2516,13 @@
       "equivalencies": {},
       "instructorPermissionMaySubstitute": false,
       "displayId": "MCB3023",
-      "rawPrereq": "Credits: 3 credits; Prerequisite: BSC 2010 and BSC 2010L, or ISC 2400L, or ISC 2401L, or",
-      "notes": ""
+      "rawPrereq": "Credits: 3 credits; Prerequisite: BSC 2010 and BSC 2011, and CHM 2045, and CHM 2046 with minimum grades of C; microbiology majors only",
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "flagOverrides": [
+        "dangling"
+      ]
     },
     "MCB3023L": {
       "id": "MCB3023L",
@@ -2521,7 +2607,9 @@
       ],
       "prereq": [
         "BSC2011",
-        "BSC2011L"
+        "BSC2011L",
+        "CHM2045",
+        "CHM2046"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -2533,8 +2621,14 @@
       "equivalencies": {},
       "instructorPermissionMaySubstitute": false,
       "displayId": "PCB3063",
-      "rawPrereq": "Credits: 4; Prereq: BSC 2011 and BSC 2011L, or equivalent, with minimum grades of C and",
-      "notes": ""
+      "rawPrereq": "Credits: 4; Prereq: BSC 2011 and BSC 2011L, or equivalent, with minimum grades of C and general chemistry.",
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "flagOverrides": [
+        "or-flatten",
+        "dangling"
+      ]
     },
     "PHY3101": {
       "id": "PHY3101",
