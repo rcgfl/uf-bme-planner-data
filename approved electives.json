@@ -131,6 +131,39 @@
       "rawPrereq": "Credits: 4. Prereq: sophomore standing or higher.",
       "notes": ""
     },
+    "APK3220C": {
+      "title": "Biomechanical Basis of Movement",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "APK2100C",
+        "MAC2311"
+      ],
+      "coreq": [],
+      "equivalencies": {
+        "MAC2311": [
+          "MAC1147"
+        ],
+        "APK2100C": [
+          "PHY2048"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "notes": "",
+      "graduateLevel": false,
+      "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "maxCredits": null,
+      "rawPrereq": "((APK 2100C or BSC X094+L or BSC X086+L or PET X322+L or ZOO 3733X) and MAC 1140 or MAC 1147 or MAC 2311 or MAC 2312 with a minimum grade of C) OR (PHY 2048 or PHY 2053 with a minimum grade of C).",
+      "id": "APK3220C"
+    },
     "BCH4024": {
       "id": "BCH4024",
       "title": "Intro to Biochemistry and Molecular Biology*",
@@ -159,6 +192,35 @@
       "displayId": "BCH4024",
       "rawPrereq": "Credits: 4; Prereq: CHM 2211 or CHM3217, or instructor permission.",
       "notes": ""
+    },
+    "BME3219": {
+      "title": "Engineering Analysis of Musculoskeletal Biomechanics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "COP2271",
+        "EGM2511"
+      ],
+      "coreq": [],
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "notes": "",
+      "graduateLevel": false,
+      "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "maxCredits": null,
+      "rawPrereq": "COP 2271 (or equivalent) & EGM 2511. Only Matlab or C++ programming languages will be accepted for COP 2271. Engineering majors only.",
+      "id": "BME3219",
+      "flagOverrides": [
+        "or-flatten"
+      ]
     },
     "BME3234": {
       "id": "BME3234",
@@ -1792,6 +1854,32 @@
       "rawPrereq": "Credits: 3; Prereq: EGS 6039 or instructor approval.",
       "notes": ""
     },
+    "EIN3241": {
+      "title": "Human Factors & Ergonomics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "ESI3215C",
+        "EGM2511"
+      ],
+      "coreq": [],
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "notes": "",
+      "graduateLevel": false,
+      "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "maxCredits": null,
+      "rawPrereq": "ESI 3215C and EGM2511 with minimum grade of C.",
+      "id": "EIN3241"
+    },
     "EIN3354": {
       "id": "EIN3354",
       "title": "Engineering Economy",
@@ -1815,6 +1903,32 @@
       "displayId": "EIN3354",
       "rawPrereq": "Credits: 3; Prereq: MAC 2312 with a minimum grade of C.",
       "notes": ""
+    },
+    "EIN4242C": {
+      "title": "Workplace Ergonomics and Biomechanics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EIN3241",
+        "EGM2511"
+      ],
+      "coreq": [],
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "notes": "",
+      "graduateLevel": false,
+      "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "maxCredits": null,
+      "rawPrereq": "EIN 3241 with a minimum grade of C and EGM 2511 with a minimum grade of C.",
+      "id": "EIN4242C"
     },
     "EMA3066": {
       "id": "EMA3066",
@@ -2097,6 +2211,31 @@
       "rawPrereq": "",
       "notes": ""
     },
+    "EML4292": {
+      "title": " Microfluidics and BioMEMS",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EGN3353C"
+      ],
+      "coreq": [],
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "notes": "",
+      "id": "EML4292",
+      "graduateLevel": false,
+      "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "maxCredits": null,
+      "rawPrereq": "EGN 3353C"
+    },
     "EML4507": {
       "id": "EML4507",
       "title": "Finite Element Analysis and Design",
@@ -2286,6 +2425,31 @@
       "displayId": "ENU6659",
       "rawPrereq": "Credits: 3; Prereq: ENU5615C or equivalent.",
       "notes": ""
+    },
+    "ESI3215C": {
+      "title": "Data Anal. for Indus. Apps.",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAC2312"
+      ],
+      "coreq": [],
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "notes": "",
+      "graduateLevel": false,
+      "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "maxCredits": null,
+      "rawPrereq": "MAC 2312 with minimum grade of C.",
+      "id": "ESI3215C"
     },
     "ESI3327C": {
       "id": "ESI3327C",
