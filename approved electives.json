@@ -2,8 +2,30 @@
   "schemaVersion": "1.0",
   "source": "UF BME Approved Elective List",
   "lastUpdated": "2026-06",
-  "description": "UF BME approved technical electives. Offering data is advisory only \u2014 verify with department before registering.",
+  "description": "UF BME approved technical electives. Offering data is advisory only — verify with department before registering.",
   "courses": {
+    "ABE3000C": {
+      "id": "ABE3000C",
+      "title": "Applications in Biological Engineering",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "ABE3000C",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
+    },
     "ABE4033": {
       "id": "ABE4033",
       "title": "Fundamentals and Applications of Biosensors",
@@ -36,6 +58,30 @@
       "equivalentCreditOnly": false,
       "placeholder": false
     },
+    "ABE4662": {
+      "id": "ABE4662",
+      "title": "Quantification of Biological Processes",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAC2312"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "ABE4662",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
+    },
     "ABE5038": {
       "id": "ABE5038",
       "title": "Recent Developments and Applications in Biosensors",
@@ -56,6 +102,28 @@
       "instructorPermissionMaySubstitute": true,
       "displayId": "ABE5038",
       "rawPrereq": "Credits: 3; Prereq: At least senior status in engineering and background in biology including",
+      "notes": ""
+    },
+    "ABE5442": {
+      "id": "ABE5442",
+      "title": "Advanced Agricultural Process Engineering",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": true,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": true,
+      "displayId": "ABE5442",
+      "rawPrereq": "Provisional pathway data. Graduate-level/advisor approval may be required. Verify before advising.",
       "notes": ""
     },
     "AGR3303": {
@@ -193,6 +261,28 @@
       "rawPrereq": "Credits: 4; Prereq: CHM 2211 or CHM3217, or instructor permission.",
       "notes": ""
     },
+    "BME2402": {
+      "id": "BME2402",
+      "title": "Introduction to Biomolecular Engineering",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME2402",
+      "rawPrereq": "Provisional pathway-only course. Verify approved-elective status, prerequisites, and offering before advising.",
+      "notes": ""
+    },
     "BME3219": {
       "title": "Engineering Analysis of Musculoskeletal Biomechanics",
       "credits": 3,
@@ -302,6 +392,54 @@
       "notes": "",
       "equivalentCreditOnly": false,
       "placeholder": false
+    },
+    "BME4220": {
+      "id": "BME4220",
+      "title": "Biomolecular Cell Mechanics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "BME3060"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME4220",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
+    },
+    "BME4321": {
+      "id": "BME4321",
+      "title": "Dynamics of Cellular Processes",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "BME4311"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BME4321",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
     },
     "BME4361": {
       "id": "BME4361",
@@ -728,8 +866,86 @@
       "equivalencies": {},
       "instructorPermissionMaySubstitute": false,
       "displayId": "BME6705",
-      "rawPrereq": "Credits: 3; Prereq: calculus, linear algebra, and passing knowledge of di\ufb00erential equations.",
+      "rawPrereq": "Credits: 3; Prereq: calculus, linear algebra, and passing knowledge of diﬀerential equations.",
       "notes": ""
+    },
+    "BSC4434C": {
+      "title": "Introduction to Bioinformatics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MCB3020"
+      ],
+      "coreq": [],
+      "equivalencies": {
+        "MCB3020": [
+          "MCB3023",
+          "BCH4024",
+          "CHM3218"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "notes": "",
+      "id": "BSC4434C",
+      "graduateLevel": false,
+      "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "maxCredits": null,
+      "rawPrereq": "MCB 3020 or MCB 3023 or BCH 4024 or CHM 3218 with a minimum grade of C."
+    },
+    "BSC4467": {
+      "id": "BSC4467",
+      "title": "Applications and Technologies of Synthetic Biology",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "BSC2010"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "BSC4467",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
+    },
+    "CAP4770": {
+      "title": "Introduction to Data Science",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "notes": "",
+      "id": "CAP4770",
+      "graduateLevel": false,
+      "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "maxCredits": null,
+      "rawPrereq": "COP 3530."
     },
     "CDA3101": {
       "id": "CDA3101",
@@ -767,6 +983,36 @@
       "notes": "",
       "equivalentCreditOnly": false,
       "placeholder": false
+    },
+    "CGS4144": {
+      "title": "Introduction to Bioinformatic Algorithms",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "COT3100",
+        "COP3503C"
+      ],
+      "coreq": [],
+      "equivalencies": {
+        "COP3503C": [
+          "COP3503"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "notes": "",
+      "id": "CGS4144",
+      "graduateLevel": false,
+      "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "maxCredits": null,
+      "rawPrereq": "COT 3100 with minimum grade of C and COP 3503C with minimum grade of C or COP 3504C with minimum grade of C."
     },
     "CHM3218": {
       "id": "CHM3218",
@@ -982,6 +1228,102 @@
       "equivalentCreditOnly": false,
       "placeholder": false
     },
+    "ECH3023": {
+      "id": "ECH3023",
+      "title": "Material and Energy Balances",
+      "credits": 4,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "CHM2046",
+        "MAC2312"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "ECH3023",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
+    },
+    "ECH4742": {
+      "id": "ECH4742",
+      "title": "Bioprocess Engineering and Bioseparations",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "ECH3023"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "ECH4742",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
+    },
+    "ECH4744": {
+      "id": "ECH4744",
+      "title": "Pharmaceutical Bioengineering",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "ECH3023"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "ECH4744",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
+    },
+    "ECH4905": {
+      "id": "ECH4905",
+      "title": "Special Problems in Chemical Engineering",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": true,
+      "maxCredits": 3,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "ECH4905",
+      "rawPrereq": "Provisional pathway data; variable credit 1-3. Defaulted to 3 cr for planning. Verify before advising.",
+      "notes": ""
+    },
     "EEE4260C": {
       "id": "EEE4260C",
       "title": "Bioelectrical Systems",
@@ -1006,6 +1348,32 @@
       "displayId": "EEE4260C",
       "rawPrereq": "Credits: 4; Prereq: EEL 3008 and EEL 3112.",
       "notes": ""
+    },
+    "EEE4773": {
+      "title": "Fundamentals of Machine Learning",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EEL3135",
+        "EEL3850"
+      ],
+      "coreq": [],
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "notes": "",
+      "id": "EEE4773",
+      "graduateLevel": false,
+      "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "maxCredits": null,
+      "rawPrereq": "EEL 3135 and EEL 3850 with minimum grades of C."
     },
     "EEE5283": {
       "id": "EEE5283",
@@ -1076,6 +1444,40 @@
       "displayId": "EEE6561",
       "rawPrereq": "Credits: 3; Prereq: EEE 6512 or instructor approval.",
       "notes": ""
+    },
+    "EEL3850": {
+      "title": "Data Science for ECE",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAC2312",
+        "COP2271"
+      ],
+      "coreq": [],
+      "equivalencies": {
+        "COP2271": [
+          "COP2273",
+          "COP2274",
+          "COP3502",
+          "COP3502C",
+          "COP3503"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "approvedBmeElective": true,
+      "provisional": false,
+      "offeringAdvisory": true,
+      "notes": "",
+      "id": "EEL3850",
+      "graduateLevel": false,
+      "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "maxCredits": null,
+      "rawPrereq": "MAC 2312 and (COP2271 or COP2273 or COP2274 or COP3502 or COP3502C or COP3503 or COP3503C or COP3504 or COP3504C or EEL3834 or equivalent)"
     },
     "EEL3872": {
       "id": "EEL3872",
@@ -1739,6 +2141,28 @@
       "rawPrereq": "Credits: 3; Prereq: junior or senior standing.",
       "notes": ""
     },
+    "EGS4100": {
+      "id": "EGS4100",
+      "title": "Divergent Thinking",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EGS4100",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
+    },
     "EGS4625": {
       "id": "EGS4625",
       "title": "Fundamentals of Engineering Project Management",
@@ -1930,6 +2354,76 @@
       "rawPrereq": "EIN 3241 with a minimum grade of C and EGM 2511 with a minimum grade of C.",
       "id": "EIN4242C"
     },
+    "EMA3010": {
+      "id": "EMA3010",
+      "title": "Materials",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA3010",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
+    },
+    "EMA3011": {
+      "id": "EMA3011",
+      "title": "Fundamental Principles of Materials",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EMA3010"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA3011",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
+    },
+    "EMA3050": {
+      "id": "EMA3050",
+      "title": "Introduction to Inorganic Materials",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EMA3010"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA3050",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
+    },
     "EMA3066": {
       "id": "EMA3066",
       "title": "Introduction to Organic Materials",
@@ -2030,6 +2524,30 @@
       "instructorPermissionMaySubstitute": false,
       "displayId": "EMA4061",
       "rawPrereq": "Credits: 3; Coreq: EMA 3066.",
+      "notes": ""
+    },
+    "EMA4061L": {
+      "id": "EMA4061L",
+      "title": "Biomaterials Laboratory",
+      "credits": 1,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "EMA4061"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": true,
+      "maxCredits": 3,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "EMA4061L",
+      "rawPrereq": "Provisional pathway data; credit value may vary 1-3. Defaulted to 1 cr for planning. Verify before advising.",
       "notes": ""
     },
     "EMA4062": {
@@ -2461,7 +2979,7 @@
       ],
       "prereq": [
         "MAC2313",
-        "MAP2302"
+        "MAS3114"
       ],
       "coreq": [],
       "approvedBmeElective": true,
@@ -2473,33 +2991,43 @@
       "equivalencies": {},
       "instructorPermissionMaySubstitute": false,
       "displayId": "ESI3327C",
-      "rawPrereq": "Credits: 4; Prereq: MAC 2313 and MAP 2302 with minimum grades of C.",
-      "notes": ""
+      "rawPrereq": "Credits: 4; Prereq: MAC 2313 and MAS 3114 with minimum grades of C.",
+      "notes": "",
+      "equivalentCreditOnly": false,
+      "placeholder": false
     },
-    "ESI4327C": {
-      "id": "ESI4327C",
-      "title": "Matrix and Numerical Methods in Systems Engineering",
-      "credits": 4,
+    "ESI4610": {
+      "title": "Introduction to Data Analytics",
+      "credits": 3,
       "offered": [
         "F",
         "S"
       ],
       "prereq": [
-        "MAC2313",
-        "MAP2302"
+        "COP2273",
+        "ESI3215C"
       ],
       "coreq": [],
+      "equivalencies": {
+        "COP2273": [
+          "COP2271"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
       "approvedBmeElective": true,
-      "provisional": false,
+      "provisional": true,
       "offeringAdvisory": true,
+      "notes": "",
+      "id": "ESI4610",
       "graduateLevel": false,
       "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
       "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "ESI4327C",
-      "rawPrereq": "Credits: 4; Prerequisite: MAC 2313 and MAP 2302 with minimum grades of C.",
-      "notes": ""
+      "rawPrereq": "COP2273 or COP2271 and ESI 3215C with minimum grades of C.",
+      "flagOverrides": [
+        "or-flatten"
+      ]
     },
     "GMS5905": {
       "id": "GMS5905",
@@ -2567,6 +3095,59 @@
       "displayId": "HSC3537",
       "rawPrereq": "",
       "notes": ""
+    },
+    "HSC4507": {
+      "id": "HSC4507",
+      "title": "Medical Terminology",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "HSC4507",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
+    },
+    "MAP4484": {
+      "title": "Modeling in Mathematical Biology",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "MAP2302",
+        "MAS3114"
+      ],
+      "coreq": [],
+      "equivalencies": {
+        "MAS3114": [
+          "MAS4105"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "notes": "MAP 2302 and (MAS 3114 or MAS 4105) with minimum grades of C.",
+      "id": "MAP4484",
+      "graduateLevel": false,
+      "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
+      "maxCredits": null,
+      "rawPrereq": ""
     },
     "MAS3114": {
       "id": "MAS3114",
@@ -2794,6 +3375,30 @@
         "dangling"
       ]
     },
+    "PCB4522": {
+      "id": "PCB4522",
+      "title": "Molecular Genetics",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S"
+      ],
+      "prereq": [
+        "PCB3063"
+      ],
+      "coreq": [],
+      "approvedBmeElective": true,
+      "provisional": true,
+      "offeringAdvisory": true,
+      "graduateLevel": false,
+      "variableCredit": false,
+      "maxCredits": null,
+      "equivalencies": {},
+      "instructorPermissionMaySubstitute": false,
+      "displayId": "PCB4522",
+      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
+      "notes": ""
+    },
     "PHY3101": {
       "id": "PHY3101",
       "title": "Introduction to Modern Physics",
@@ -2876,426 +3481,68 @@
       "rawPrereq": "Credits: 3; Prereq: (PHY 3101 or PHY 3063) and MAP 2302 or the equivalent. Frist of",
       "notes": ""
     },
-    "BME2402": {
-      "id": "BME2402",
-      "title": "Introduction to Biomolecular Engineering",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "BME2402",
-      "rawPrereq": "Provisional pathway-only course. Verify approved-elective status, prerequisites, and offering before advising.",
-      "notes": ""
-    },
-    "EMA3010": {
-      "id": "EMA3010",
-      "title": "Materials",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "EMA3010",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
-    },
-    "EMA3011": {
-      "id": "EMA3011",
-      "title": "Fundamental Principles of Materials",
+    "STA3100": {
+      "title": "Programming With Data in R",
       "credits": 3,
       "offered": [
         "F",
         "S"
       ],
       "prereq": [
-        "EMA3010"
+        "STA2023"
       ],
       "coreq": [],
+      "equivalencies": {
+        "STA2023": [
+          "STA3024",
+          "STA3032"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
       "approvedBmeElective": true,
       "provisional": true,
       "offeringAdvisory": true,
+      "notes": "",
+      "id": "STA3100",
       "graduateLevel": false,
       "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
       "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "EMA3011",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
+      "rawPrereq": "STA 2023 with a minimum grade of B or (STA 3024 or STA 3032 with a minimum grade of B-) or (AP statistics score of 4 or 5)."
     },
-    "EMA3050": {
-      "id": "EMA3050",
-      "title": "Introduction to Inorganic Materials",
+    "STA4210": {
+      "title": " Regression Analysis",
       "credits": 3,
       "offered": [
         "F",
         "S"
       ],
       "prereq": [
-        "EMA3010"
+        "STA3100",
+        "STA3024"
       ],
       "coreq": [],
+      "equivalencies": {
+        "STA3024": [
+          "STA3032",
+          "STA4321",
+          "MAS3114",
+          "MAS4105"
+        ]
+      },
+      "instructorPermissionMaySubstitute": false,
       "approvedBmeElective": true,
       "provisional": true,
       "offeringAdvisory": true,
+      "notes": "",
+      "id": "STA4210",
       "graduateLevel": false,
       "variableCredit": false,
+      "equivalentCreditOnly": false,
+      "placeholder": false,
       "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "EMA3050",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
-    },
-    "EMA4061L": {
-      "id": "EMA4061L",
-      "title": "Biomaterials Laboratory",
-      "credits": 1,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [
-        "EMA4061"
-      ],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": true,
-      "maxCredits": 3,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "EMA4061L",
-      "rawPrereq": "Provisional pathway data; credit value may vary 1-3. Defaulted to 1 cr for planning. Verify before advising.",
-      "notes": ""
-    },
-    "HSC4507": {
-      "id": "HSC4507",
-      "title": "Medical Terminology",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S",
-        "Su"
-      ],
-      "prereq": [],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "HSC4507",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
-    },
-    "PCB4522": {
-      "id": "PCB4522",
-      "title": "Molecular Genetics",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [
-        "PCB3063"
-      ],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "PCB4522",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
-    },
-    "EGS4100": {
-      "id": "EGS4100",
-      "title": "Divergent Thinking",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "EGS4100",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
-    },
-    "ECH3023": {
-      "id": "ECH3023",
-      "title": "Material and Energy Balances",
-      "credits": 4,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [
-        "CHM2046",
-        "MAC2312"
-      ],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "ECH3023",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
-    },
-    "ECH4742": {
-      "id": "ECH4742",
-      "title": "Bioprocess Engineering and Bioseparations",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [
-        "ECH3023"
-      ],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "ECH4742",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
-    },
-    "ABE3000C": {
-      "id": "ABE3000C",
-      "title": "Applications in Biological Engineering",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "ABE3000C",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
-    },
-    "ABE4662": {
-      "id": "ABE4662",
-      "title": "Quantification of Biological Processes",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [
-        "MAC2312"
-      ],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "ABE4662",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
-    },
-    "ABE5442": {
-      "id": "ABE5442",
-      "title": "Advanced Agricultural Process Engineering",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": true,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": true,
-      "displayId": "ABE5442",
-      "rawPrereq": "Provisional pathway data. Graduate-level/advisor approval may be required. Verify before advising.",
-      "notes": ""
-    },
-    "BSC4467": {
-      "id": "BSC4467",
-      "title": "Applications and Technologies of Synthetic Biology",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [
-        "BSC2010"
-      ],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "BSC4467",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
-    },
-    "BME4220": {
-      "id": "BME4220",
-      "title": "Biomolecular Cell Mechanics",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [
-        "BME3060"
-      ],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "BME4220",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
-    },
-    "BME4321": {
-      "id": "BME4321",
-      "title": "Dynamics of Cellular Processes",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [
-        "BME4311"
-      ],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "BME4321",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
-    },
-    "ECH4744": {
-      "id": "ECH4744",
-      "title": "Pharmaceutical Bioengineering",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S"
-      ],
-      "prereq": [
-        "ECH3023"
-      ],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": false,
-      "maxCredits": null,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "ECH4744",
-      "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
-      "notes": ""
-    },
-    "ECH4905": {
-      "id": "ECH4905",
-      "title": "Special Problems in Chemical Engineering",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S",
-        "Su"
-      ],
-      "prereq": [],
-      "coreq": [],
-      "approvedBmeElective": true,
-      "provisional": true,
-      "offeringAdvisory": true,
-      "graduateLevel": false,
-      "variableCredit": true,
-      "maxCredits": 3,
-      "equivalencies": {},
-      "instructorPermissionMaySubstitute": false,
-      "displayId": "ECH4905",
-      "rawPrereq": "Provisional pathway data; variable credit 1-3. Defaulted to 3 cr for planning. Verify before advising.",
-      "notes": ""
+      "rawPrereq": "STA 3100 and (STA 3024 or STA 3032 or STA 4321 or MAS 3114 or MAS 4105)."
     }
   }
 }
