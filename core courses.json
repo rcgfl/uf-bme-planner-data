@@ -887,23 +887,6 @@
       "offeringAdvisory": false,
       "notes": ""
     },
-    "BME_ELECTIVE_1": {
-      "title": "BME Elective",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S",
-        "Su"
-      ],
-      "prereq": [],
-      "placeholder": true,
-      "id": "BME_ELECTIVE_1",
-      "coreq": [],
-      "approvedBmeElective": false,
-      "provisional": false,
-      "offeringAdvisory": false,
-      "notes": "Generic placeholder. Offering season is not meaningful for this record. Summer placement depends on specific course substituted; enforced by scheduler logic."
-    },
     "STA3032": {
       "title": "Engineering Statistics",
       "credits": 3,
@@ -983,23 +966,6 @@
       "offeringAdvisory": false,
       "notes": ""
     },
-    "BME_ELECTIVE_2": {
-      "title": "BME Elective",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S",
-        "Su"
-      ],
-      "prereq": [],
-      "placeholder": true,
-      "id": "BME_ELECTIVE_2",
-      "coreq": [],
-      "approvedBmeElective": false,
-      "provisional": false,
-      "offeringAdvisory": false,
-      "notes": "Generic placeholder. Offering season is not meaningful for this record. Summer placement depends on specific course substituted; enforced by scheduler logic."
-    },
     "GENED_S": {
       "title": "State Core Social and Behavioral Science",
       "credits": 3,
@@ -1059,40 +1025,6 @@
       "offeringAdvisory": false,
       "notes": ""
     },
-    "BME_ELECTIVE_3": {
-      "title": "BME Elective",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S",
-        "Su"
-      ],
-      "prereq": [],
-      "placeholder": true,
-      "id": "BME_ELECTIVE_3",
-      "coreq": [],
-      "approvedBmeElective": false,
-      "provisional": false,
-      "offeringAdvisory": false,
-      "notes": "Generic placeholder. Offering season is not meaningful for this record. Summer placement depends on specific course substituted; enforced by scheduler logic."
-    },
-    "BME_ELECTIVE_4": {
-      "title": "BME Elective / Free Elective",
-      "credits": 3,
-      "offered": [
-        "F",
-        "S",
-        "Su"
-      ],
-      "prereq": [],
-      "placeholder": true,
-      "id": "BME_ELECTIVE_4",
-      "coreq": [],
-      "approvedBmeElective": false,
-      "provisional": false,
-      "offeringAdvisory": false,
-      "notes": "Generic placeholder. Offering season is not meaningful for this record. Summer placement depends on specific course substituted; enforced by scheduler logic."
-    },
     "GENED_H": {
       "title": "State Core Humanities",
       "credits": 3,
@@ -1128,6 +1060,24 @@
       "offeringAdvisory": false,
       "equivalentCreditOnly": true,
       "notes": "Standard Modern Physics course. Prerequisite for PHY4604 (elective). PHY3063 (Honors) is its equivalent."
+    },
+    "ELECTIVE_SLOT": {
+      "id": "ELECTIVE_SLOT",
+      "title": "BME Elective (unassigned)",
+      "credits": 3,
+      "offered": [
+        "F",
+        "S",
+        "Su"
+      ],
+      "prereq": [],
+      "coreq": [],
+      "placeholder": true,
+      "approvedBmeElective": false,
+      "provisional": false,
+      "offeringAdvisory": false,
+      "displayId": "ELECTIVE_SLOT",
+      "notes": "Generic placeholder \u2014 interchangeable, no numbered identity. Offering season is not meaningful for this record; depends on whichever course replaces it."
     }
   }
 }
