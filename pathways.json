@@ -2,7 +2,7 @@
   "schemaVersion": "2.1",
   "source": "UF BME Department",
   "lastUpdated": "2026-06",
-  "description": "UF BME thematic pathway definitions. Themes are the primary browsing entry point; each theme has its own curated elective course pool plus references to validated minors/certificates (pathways) and ones pending validation. Course data (including provisional entries) lives entirely in approved-electives.json now — this file only references course IDs by string, never defines what a course is. Verify official requirements before advising.",
+  "description": "UF BME thematic pathway definitions. Themes are the primary browsing entry point; each theme has its own curated elective course pool plus references to validated minors/certificates (pathways) and ones pending validation. Course data (including provisional entries) lives entirely in approved-electives.json now \u2014 this file only references course IDs by string, never defines what a course is. Verify official requirements before advising.",
   "themes": {
     "biomaterials_regen": {
       "id": "biomaterials_regen",
@@ -70,7 +70,7 @@
       ],
       "notes": [
         "All 12 elective courses now on the approved list (4 added as provisional by Chris).",
-        "Biomechanics Minor not yet validated — listed for reference only, no course-group structure built."
+        "Biomechanics Minor not yet validated \u2014 listed for reference only, no course-group structure built."
       ]
     },
     "biomedical_imaging": {
@@ -98,7 +98,7 @@
       ],
       "notes": [
         "7 of 9 elective courses pending addition to the approved list, excluded until added: ENU4001, ENU4103, ENU4612, HSC3502, HSC4557, HSC4608, OTH3416",
-        "Neither minor yet validated — listed for reference only, no course-group structure built."
+        "Neither minor yet validated \u2014 listed for reference only, no course-group structure built."
       ]
     },
     "engineering_design_innovation": {
@@ -208,7 +208,7 @@
       ],
       "notes": [
         "10 of 17 elective courses pending addition to the approved list, excluded until added: BSC4434C, CAP3032, CAP4770, CGS4144, CIS4930, EEE4773, ESI4610, MAP4484, PHI3681, STA4210",
-        "None of the listed minors/certificates yet validated — listed for reference only, no course-group structure built."
+        "None of the listed minors/certificates yet validated \u2014 listed for reference only, no course-group structure built."
       ]
     }
   },
@@ -217,7 +217,7 @@
       "title": "Biomechanics Minor",
       "type": "minor",
       "totalCredits": 15,
-      "electiveSpaceCap": 0,
+      "electiveSpaceCap": 12,
       "sourceLabel": "pending validation theme reference",
       "majorSatisfiedPrereqs": [
         "BME4409",
@@ -242,7 +242,8 @@
       ],
       "notes": [
         "Created from theme-listed minor: Biomechanics & Bionics. Verify official requirements before advising."
-      ]
+      ],
+      "id": "biomechanics_minor"
     },
     "biomolecular_engineering_minor": {
       "id": "biomolecular_engineering_minor",
