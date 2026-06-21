@@ -2,7 +2,7 @@
   "schemaVersion": "2.1",
   "source": "UF BME Department",
   "lastUpdated": "2026-06",
-  "description": "UF BME thematic pathway definitions. Themes are the primary browsing entry point; each theme has its own curated elective course pool plus references to validated minors/certificates (pathways) and ones pending validation. Course data (including provisional entries) lives entirely in approved-electives.json now \u2014 this file only references course IDs by string, never defines what a course is. Verify official requirements before advising.",
+  "description": "UF BME thematic pathway definitions. Themes are the primary browsing entry point; each theme has its own curated elective course pool plus references to validated minors/certificates (pathways) and ones pending validation. Course data (including provisional entries) lives entirely in approved-electives.json now — this file only references course IDs by string, never defines what a course is. Verify official requirements before advising.",
   "themes": {
     "biomaterials_regen": {
       "id": "biomaterials_regen",
@@ -65,12 +65,12 @@
           "title": "Biomechanics Minor",
           "department": "Mechanical & Aerospace Engineering",
           "status": "pending_validation",
-          "pathwayId": null
+          "pathwayId": "biomechanics_minor"
         }
       ],
       "notes": [
         "All 12 elective courses now on the approved list (4 added as provisional by Chris).",
-        "Biomechanics Minor not yet validated \u2014 listed for reference only, no course-group structure built."
+        "Biomechanics Minor not yet validated — listed for reference only, no course-group structure built."
       ]
     },
     "biomedical_imaging": {
@@ -98,58 +98,7 @@
       ],
       "notes": [
         "7 of 9 elective courses pending addition to the approved list, excluded until added: ENU4001, ENU4103, ENU4612, HSC3502, HSC4557, HSC4608, OTH3416",
-        "Neither minor yet validated \u2014 listed for reference only, no course-group structure built."
-      ]
-    },
-    "modeling_data_science": {
-      "id": "modeling_data_science",
-      "title": "Modeling & Biomedical Data Science",
-      "description": "For students who are interested in using computational methods, algorithms, and IT to process and analyze biological and medical data across multiple scales.",
-      "electiveCourses": [
-        "BME4760",
-        "CDA3101",
-        "COP3530",
-        "COP4600",
-        "COT3100",
-        "EEL3872",
-        "PCB3063"
-      ],
-      "electiveSpaceCap": 12,
-      "minorsAndCertificates": [
-        {
-          "title": "Artificial Intelligence Fundamentals and Applications Certificate",
-          "department": "College of Engineering",
-          "status": "pending_validation",
-          "pathwayId": null
-        },
-        {
-          "title": "AI in Public Health and Healthcare Certificate",
-          "department": "College of Public Health and Health Professions",
-          "status": "pending_validation",
-          "pathwayId": null
-        },
-        {
-          "title": "Bioinformatics Minor",
-          "department": "Microbiology & Cell Science",
-          "status": "pending_validation",
-          "pathwayId": null
-        },
-        {
-          "title": "Statistics Minor",
-          "department": "Statistics",
-          "status": "pending_validation",
-          "pathwayId": null
-        },
-        {
-          "title": "CISE Minor",
-          "department": "Computer & Information Science & Engineering",
-          "status": "pending_validation",
-          "pathwayId": null
-        }
-      ],
-      "notes": [
-        "10 of 17 elective courses pending addition to the approved list, excluded until added: BSC4434C, CAP3032, CAP4770, CGS4144, CIS4930, EEE4773, ESI4610, MAP4484, PHI3681, STA4210",
-        "None of the listed minors/certificates yet validated \u2014 listed for reference only, no course-group structure built."
+        "Neither minor yet validated — listed for reference only, no course-group structure built."
       ]
     },
     "engineering_design_innovation": {
@@ -210,78 +159,90 @@
         "8 of 17 elective courses pending addition to the approved list, excluded until added: AEB3341, ECH4604, EGN4930, EML4321, ENC3246, FIN3403, MAR3023, MAN3025",
         "Only Engineering Innovation Certificate validated so far; the other 5 are listed for reference only."
       ]
+    },
+    "modeling_data_science": {
+      "id": "modeling_data_science",
+      "title": "Modeling & Biomedical Data Science",
+      "description": "For students who are interested in using computational methods, algorithms, and IT to process and analyze biological and medical data across multiple scales.",
+      "electiveCourses": [
+        "BME4760",
+        "CDA3101",
+        "COP3530",
+        "COP4600",
+        "COT3100",
+        "EEL3872",
+        "PCB3063"
+      ],
+      "electiveSpaceCap": 12,
+      "minorsAndCertificates": [
+        {
+          "title": "Artificial Intelligence Fundamentals and Applications Certificate",
+          "department": "College of Engineering",
+          "status": "pending_validation",
+          "pathwayId": null
+        },
+        {
+          "title": "AI in Public Health and Healthcare Certificate",
+          "department": "College of Public Health and Health Professions",
+          "status": "pending_validation",
+          "pathwayId": null
+        },
+        {
+          "title": "Bioinformatics Minor",
+          "department": "Microbiology & Cell Science",
+          "status": "pending_validation",
+          "pathwayId": null
+        },
+        {
+          "title": "Statistics Minor",
+          "department": "Statistics",
+          "status": "pending_validation",
+          "pathwayId": null
+        },
+        {
+          "title": "CISE Minor",
+          "department": "Computer & Information Science & Engineering",
+          "status": "pending_validation",
+          "pathwayId": null
+        }
+      ],
+      "notes": [
+        "10 of 17 elective courses pending addition to the approved list, excluded until added: BSC4434C, CAP3032, CAP4770, CGS4144, CIS4930, EEE4773, ESI4610, MAP4484, PHI3681, STA4210",
+        "None of the listed minors/certificates yet validated — listed for reference only, no course-group structure built."
+      ]
     }
   },
   "pathways": {
-    "mse_minor": {
-      "id": "mse_minor",
+    "biomechanics_minor": {
+      "title": "Biomechanics Minor",
       "type": "minor",
-      "title": "Materials Science and Engineering Minor",
       "totalCredits": 15,
-      "electiveSpaceCap": 12,
-      "majorSatisfiedPrereqs": [],
+      "electiveSpaceCap": 0,
+      "sourceLabel": "pending validation theme reference",
+      "majorSatisfiedPrereqs": [
+        "BME4409",
+        "BME4632"
+      ],
       "groups": [
         {
-          "id": "mse_required",
-          "label": "Required course",
-          "type": "all",
-          "courses": [
-            "EMA3010"
-          ]
-        },
-        {
-          "id": "mse_choose3",
-          "label": "Choose 3",
+          "id": "requirement_group_1",
+          "label": "Requirement group 1",
           "type": "choose",
-          "count": 3,
           "courses": [
-            "EMA3011",
-            "EMA3050",
-            "EMA3066",
-            "EMA4061",
-            "EMA4061L",
-            "EMA4161"
-          ]
+            "BME3219",
+            "BME3234",
+            "EGM4585",
+            "EGM4590",
+            "EGM4592",
+            "EGM4583",
+            "EML4292"
+          ],
+          "count": 3
         }
       ],
       "notes": [
-        "15-credit proof-of-concept minor. EMA courses intentionally overlap with Biomaterials specialization."
-      ],
-      "sourceLabel": "proof-of-concept"
-    },
-    "engineering_innovation_certificate": {
-      "id": "engineering_innovation_certificate",
-      "type": "certificate",
-      "title": "Engineering Innovation Certificate",
-      "totalCredits": 9,
-      "electiveSpaceCap": 12,
-      "majorSatisfiedPrereqs": [],
-      "groups": [
-        {
-          "id": "ei_required",
-          "label": "Required course",
-          "type": "all",
-          "courses": [
-            "EGN4643"
-          ]
-        },
-        {
-          "id": "ei_choose2",
-          "label": "Choose 2",
-          "type": "choose",
-          "count": 2,
-          "courses": [
-            "EGN4641",
-            "EGS4038",
-            "EGS4100",
-            "EGS4625"
-          ]
-        }
-      ],
-      "notes": [
-        "9-credit certificate proof of concept."
-      ],
-      "sourceLabel": "proof-of-concept"
+        "Created from theme-listed minor: Biomechanics & Bionics. Verify official requirements before advising."
+      ]
     },
     "biomolecular_engineering_minor": {
       "id": "biomolecular_engineering_minor",
@@ -339,6 +300,76 @@
       "notes": [
         "Prerequisites for minor application are BME core/preprofessional courses and are treated as satisfied for pathway-warning purposes only.",
         "BME2402 is not treated as BME-major-satisfied."
+      ],
+      "sourceLabel": "proof-of-concept"
+    },
+    "engineering_innovation_certificate": {
+      "id": "engineering_innovation_certificate",
+      "type": "certificate",
+      "title": "Engineering Innovation Certificate",
+      "totalCredits": 9,
+      "electiveSpaceCap": 12,
+      "majorSatisfiedPrereqs": [],
+      "groups": [
+        {
+          "id": "ei_required",
+          "label": "Required course",
+          "type": "all",
+          "courses": [
+            "EGN4643"
+          ]
+        },
+        {
+          "id": "ei_choose2",
+          "label": "Choose 2",
+          "type": "choose",
+          "count": 2,
+          "courses": [
+            "EGN4641",
+            "EGS4038",
+            "EGS4100",
+            "EGS4625"
+          ]
+        }
+      ],
+      "notes": [
+        "9-credit certificate proof of concept."
+      ],
+      "sourceLabel": "proof-of-concept"
+    },
+    "mse_minor": {
+      "id": "mse_minor",
+      "type": "minor",
+      "title": "Materials Science and Engineering Minor",
+      "totalCredits": 15,
+      "electiveSpaceCap": 12,
+      "majorSatisfiedPrereqs": [],
+      "groups": [
+        {
+          "id": "mse_required",
+          "label": "Required course",
+          "type": "all",
+          "courses": [
+            "EMA3010"
+          ]
+        },
+        {
+          "id": "mse_choose3",
+          "label": "Choose 3",
+          "type": "choose",
+          "count": 3,
+          "courses": [
+            "EMA3011",
+            "EMA3050",
+            "EMA3066",
+            "EMA4061",
+            "EMA4061L",
+            "EMA4161"
+          ]
+        }
+      ],
+      "notes": [
+        "15-credit proof-of-concept minor. EMA courses intentionally overlap with Biomaterials specialization."
       ],
       "sourceLabel": "proof-of-concept"
     }
