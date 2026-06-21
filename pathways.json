@@ -225,8 +225,8 @@
       ],
       "groups": [
         {
-          "id": "requirement_group_1",
-          "label": "Requirement group 1",
+          "id": "group_1",
+          "label": "Choose 3",
           "type": "choose",
           "courses": [
             "BME3219",
@@ -234,7 +234,7 @@
             "EGM4585",
             "EGM4590",
             "EGM4592",
-            "EGM4583",
+            "EGM4853",
             "EML4292"
           ],
           "count": 3
