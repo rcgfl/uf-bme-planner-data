@@ -2,7 +2,7 @@
   "schemaVersion": "2.1",
   "source": "UF BME Department",
   "lastUpdated": "2026-06",
-  "description": "UF BME thematic pathway definitions. Themes are the primary browsing entry point; each theme has its own curated elective course pool plus references to validated minors/certificates (pathways) and ones pending validation. Course data (including provisional entries) lives entirely in approved-electives.json now — this file only references course IDs by string, never defines what a course is. Verify official requirements before advising.",
+  "description": "UF BME thematic pathway definitions. Themes are the primary browsing entry point; each theme has its own curated elective course pool plus references to validated minors/certificates (pathways) and ones pending validation. Course data (including provisional entries) lives entirely in approved-electives.json now \u2014 this file only references course IDs by string, never defines what a course is. Verify official requirements before advising.",
   "themes": {
     "biomaterials_and_regenerative_medicine": {
       "id": "biomaterials_and_regenerative_medicine",
@@ -38,9 +38,7 @@
           "pathwayId": "biomolecular_engineering_minor"
         }
       ],
-      "notes": [
-        "All 12 elective courses already on the approved list."
-      ]
+      "notes": []
     },
     "biomechanics_bionics": {
       "id": "biomechanics_bionics",
@@ -69,10 +67,7 @@
           "pathwayId": "biomechanics_minor"
         }
       ],
-      "notes": [
-        "All 12 elective courses now on the approved list (4 added as provisional by Chris).",
-        "Biomechanics Minor not yet validated — listed for reference only, no course-group structure built."
-      ]
+      "notes": []
     },
     "biomedical_imaging": {
       "id": "biomedical_imaging",
@@ -97,10 +92,7 @@
           "pathwayId": null
         }
       ],
-      "notes": [
-        "7 of 9 elective courses pending addition to the approved list, excluded until added: ENU4001, ENU4103, ENU4612, HSC3502, HSC4557, HSC4608, OTH3416",
-        "Neither minor yet validated — listed for reference only, no course-group structure built."
-      ]
+      "notes": []
     },
     "engineering_design_innovation": {
       "id": "engineering_design_innovation",
@@ -156,10 +148,7 @@
           "pathwayId": null
         }
       ],
-      "notes": [
-        "8 of 17 elective courses pending addition to the approved list, excluded until added: AEB3341, ECH4604, EGN4930, EML4321, ENC3246, FIN3403, MAR3023, MAN3025",
-        "Only Engineering Innovation Certificate validated so far; the other 5 are listed for reference only."
-      ]
+      "notes": []
     },
     "modeling_data_science": {
       "id": "modeling_data_science",
@@ -207,10 +196,7 @@
           "pathwayId": null
         }
       ],
-      "notes": [
-        "10 of 17 elective courses pending addition to the approved list, excluded until added: BSC4434C, CAP3032, CAP4770, CGS4144, CIS4930, EEE4773, ESI4610, MAP4484, PHI3681, STA4210",
-        "None of the listed minors/certificates yet validated — listed for reference only, no course-group structure built."
-      ]
+      "notes": []
     }
   },
   "pathways": {
