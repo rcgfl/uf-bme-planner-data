@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "source": "UF BME Approved Elective List",
   "lastUpdated": "2026-06",
-  "description": "UF BME approved technical electives. Offering data is advisory only — verify with department before registering.",
+  "description": "UF BME approved technical electives. Offering data is advisory only \u2014 verify with department before registering.",
   "courses": {
     "ABE3000C": {
       "id": "ABE3000C",
@@ -271,7 +271,7 @@
       ],
       "prereq": [],
       "coreq": [],
-      "approvedBmeElective": false,
+      "approvedBmeElective": true,
       "provisional": true,
       "offeringAdvisory": true,
       "graduateLevel": false,
@@ -435,7 +435,11 @@
       "graduateLevel": false,
       "variableCredit": false,
       "maxCredits": null,
-      "equivalencies": {},
+      "equivalencies": {
+        "BME4311": [
+          "BCH4024"
+        ]
+      },
       "instructorPermissionMaySubstitute": false,
       "displayId": "BME4321",
       "rawPrereq": "Provisional pathway data. Verify catalog prerequisites and offering before advising.",
@@ -866,7 +870,7 @@
       "equivalencies": {},
       "instructorPermissionMaySubstitute": false,
       "displayId": "BME6705",
-      "rawPrereq": "Credits: 3; Prereq: calculus, linear algebra, and passing knowledge of diﬀerential equations.",
+      "rawPrereq": "Credits: 3; Prereq: calculus, linear algebra, and passing knowledge of di\ufb00erential equations.",
       "notes": ""
     },
     "BSC4434C": {
@@ -1003,7 +1007,7 @@
       },
       "instructorPermissionMaySubstitute": false,
       "approvedBmeElective": true,
-      "provisional": true,
+      "provisional": false,
       "offeringAdvisory": true,
       "notes": "",
       "id": "CGS4144",
@@ -1468,7 +1472,7 @@
       },
       "instructorPermissionMaySubstitute": false,
       "approvedBmeElective": true,
-      "provisional": true,
+      "provisional": false,
       "offeringAdvisory": true,
       "notes": "",
       "id": "EEL3850",
@@ -2364,8 +2368,8 @@
       ],
       "prereq": [],
       "coreq": [],
-      "approvedBmeElective": false,
-      "provisional": false,
+      "approvedBmeElective": true,
+      "provisional": true,
       "offeringAdvisory": true,
       "graduateLevel": false,
       "variableCredit": false,
