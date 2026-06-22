@@ -4,8 +4,8 @@
   "lastUpdated": "2026-06",
   "description": "UF BME thematic pathway definitions. Themes are the primary browsing entry point; each theme has its own curated elective course pool plus references to validated minors/certificates (pathways) and ones pending validation. Course data (including provisional entries) lives entirely in approved-electives.json now — this file only references course IDs by string, never defines what a course is. Verify official requirements before advising.",
   "themes": {
-    "biomaterials_regen": {
-      "id": "biomaterials_regen",
+    "biomaterials_and_regenerative_medicine": {
+      "id": "biomaterials_and_regenerative_medicine",
       "title": "Biomaterials & Regenerative Medicine",
       "description": "For students who are interested in developing advanced materials for nanoparticles, microfabricated devices, controlled release systems, vaccines, and tissue regeneration scaffolds.",
       "electiveCourses": [
@@ -15,6 +15,7 @@
         "EMA3011",
         "EMA3050",
         "EMA3066",
+        "EMA3513C",
         "EMA4061",
         "EMA4061L",
         "EMA4161",
@@ -107,8 +108,8 @@
       "description": "For students who are interested in developing product and service solutions while exploring ventures applicable to both the for-profit sector and initiatives focused on social impact and the public good.",
       "electiveCourses": [
         "BME4931",
-        "EGN4643",
         "EGN4641",
+        "EGN4643",
         "EGS4038",
         "EGS4100",
         "EGS4625",
@@ -268,8 +269,8 @@
           "type": "choose",
           "count": 1,
           "courses": [
-            "BME2402",
             "BCH4024",
+            "BME2402",
             "CHM3218",
             "ECH3023",
             "ECH4742"
@@ -285,12 +286,12 @@
             "ABE4033",
             "ABE4662",
             "ABE5442",
-            "BSC4467",
             "BME4220",
             "BME4321",
             "BME4648",
             "BME4931",
             "BME6330",
+            "BSC4467",
             "ECH4744",
             "ECH4905",
             "EGM4585",
